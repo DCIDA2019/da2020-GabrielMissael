@@ -1,0 +1,1293 @@
+Lon,Lat,Clave,Edo,Est,Tmax
+-102.37,21.78,NGRAG,AGS,El Niagara Ags.,26.3
+-102.79,21.81,MNLAG,AGS,Media Luna Ags.,27.6
+-102.71,21.85,CALVILLO,AGS,Calvillo Ags. SMN*,27.7
+-102.31,21.9,AGSAG,AGS,Aguascalientes Ags.,26.5
+-102,21.9,CNSAG,AGS,Los Conos Ags.,25.3
+-102.68,22,CDRAG,AGS,La Codorniz Ags.,26.0
+-102.36,22.12,JCQAG,AGS,Jocoque Ags.,25.1
+-102.42,22.14,PECAG,AGS,Plutarco ElÌas Calles Ags.,25.4
+-102.14,22.2,PTOAG,AGS,Puerto de la ConcepciÛn Ags.,22.2
+-102.3,22.36,CSOAG,AGS,CosÌo Ags.,19.3
+-102.18,21.74,BRTAG,AGS,San Bartolo Ags.,24.3
+-102.13,21.81,TNJAG,AGS,La Tinaja 2 Ags.,24.7
+-102.19,21.83,CLVAG,AGS,Calvillo Ags.,24.1
+-102.2,22.01,CHOAG,AGS,CaÒada Honda Ags.,27.2
+-102.61,21.27,SIERRAFRIA,AGS,Sierra FrÌa Ags. SMN*,16.4
+-102.29,21.85,OBSAG,AGS,Observatorio de Aguascalientes Ags.,25.8
+-102.11,21.88,SNVAG,AGS,Sandovales Ags.,21.9
+-101.97,21.92,PALAG,AGS,Palo Alto Ags.,23.8
+-102.36,21.97,UAALAPOSTA,AGS,Universidad AutÛnoma de Aguascalientes Ags. SGT*,23.6
+-102,22.02,NVLAG,AGS,El Novillo Ags.,22.6
+-102.07,22.1,VJZAG,AGS,Villa Ju·rez Ags.,24.6
+-102.29,22.16,PBLAG,AGS,PabellÛn Ags.,25.0
+-102.44,22.24,PTRAG,AGS,Derivadora PabellÛn Ags.,24.2
+-114.72,29.73,CATAVINA,BC,CataviÒa B.C. SMN*,24.1
+-116.6,31.89,ELZBN,BC,Emilio LÛpez Zamora B.C.,23.1
+-116.2,32.27,AGHBN,BC,Agua Hechicera B.C.,20.6
+-115.15,32.41,ENLBN,BC,Ejido Nuevo LeÛn B.C.,28.2
+-116.91,32.44,ALRBN,BC,Abelardo L. RodrÌguez B.C.,24.4
+-116.83,32.47,EFLBN,BC,El Florido B.C.,24.0
+-116.7,32.48,CRRBN,BC,El Carrizo B.C.,25.2
+-114.73,32.7,PDMBN,BC,Presa Derivadora Morelos B.C.,24.7
+-114.73,32.7,ALGODONESob,BC,Observatorio de Algodones B.C. SMN*,27.1
+-113.56,28.9,BAABN,BC,BahÌa de los ¡ngeles B.C. SMN*,24.9
+-116.37,31.49,ENSBN,BC,Ensenada B.C.,23.9
+-114.97,32.06,ENCINAS,BC,Encinas Johnson Son. REMAS*,27.6
+-116.21,32.27,RUMOROSA,BC,La Rumorosa B.C. SMN*,19.9
+-117.25,32.42,ISLACORONADOMAR,BC,Isla Coronado B.C. SEMAR*,20.5
+-116.6,31.89,PLOPEZZAMORA,BC,Presa Emilio LÛpez Zamora B.C. SMN*,21.7
+-115.29,32.67,MEXBN,BC,Mexicali B.C. SMN*,26.3
+-115.93,30.52,ENBBN,BC,San QuintÌn B.C.,23.5
+-115.94,30.53,SANQUINTIN,BC,San QuntÌn B.C.*,22.8
+-114.83,30.99,SANFELIPEMAR,BC,San Felipe B.C. SEMAR*,23.9
+-114.83,31.03,SFELIPEob,BC,Observatorio de San Felipe B.C. SMN*,26.6
+-114.85,31.03,SFLBN,BC,San Felipe B.C.,26.6
+-117.07,32.38,PLAYAROSARITO,BC,Playa Rosarito B.C. SMN*,20.6
+-115.27,32.39,MXCBN,BC,Mexicali B.C.,27.2
+-115.19,32.41,ENVOLEONob,BC,Observatorio de EnvoleÛn B.C. SMN*,28.5
+-116.91,32.45,PABELARLRDGZ2,BC,Abelardo L. RodrÌguez. 2 B.C. SMN*,24.0
+-116.3,32.52,HNGBN,BC,El Hongo B.C.,17.8
+-116.63,32.57,TCTBN,BC,Tecate B.C.,24.2
+-116.66,32.57,TECATE,BC,Tecate B.C. SMN*,24.2
+-111.35,26.01,BLORETO,BCS,BahÌa de Loreto B.C.S. SMN*,28.3
+-109.92,22.89,SANLUCAS,BCS,Cabo San Lucas B.C.S. SMN*,29.6
+-109.93,22.9,CSLBS,BCS,Cabo San Lucas B.C.S.,30.8
+-109.7,23.68,LBABS,BCS,Los Barriles B.C.S.,30.3
+-109.98,24.07,PLNBS,BCS,Los Planes B.C.S.,30.2
+-110.37,24.15,LPZBS,BCS,La Paz B.C.S.,29.2
+-111.66,25,CCNBS,BCS,Ciudad ConstituciÛn B.C.S.,29.4
+-113.42,27.78,DORBS,BCS,DÌaz Ordaz B.C.S.,25.6
+-114.05,27.97,GNGBS,BCS,Guerrero Negro B.C.S.,23.6
+-110,23.56,SLAGUNA,BCS,Sierra La Laguna B.C.S. SMN*,20.6
+-111.83,24.48,PCORTESMAR,BCS,Puerto CortÈs B.C.S. SEMAR*,27.4
+-111.65,25.01,CDCONSTITUCIONo,BCS,Observatorio de Ciudad ConstituciÛn B.C.S. SGT*,30.4
+-109.71,23.07,SJCBS,BCS,San JosÈ del Cabo B.C.S.,29.4
+-110.22,23.43,TSNBS,BCS,Todos Santos B.C.S.,29.2
+-110.22,23.45,TODOSLOSSANTOS,BCS,Todos los Santos B.C.S. SMN*,27.9
+-109.72,23.45,SNTBS,BCS,Santiago B.C.S.,30.2
+-109.55,23.58,RBRBS,BCS,La Ribera B.C.S.,28.1
+-109.84,23.74,SBABS,BCS,San Bartolo B.C.S.,27.4
+-110.05,23.8,SANBS,BCS,San Antonio B.C.S.,30.8
+-109.98,24.07,SARBS,BCS,El Sargento B.C.S.,28.7
+-110.32,24.12,LAPAZob,BCS,Observatorio de La Paz B.C.S. SMN*,29.6
+-111.34,26.02,LRTBS,BCS,Loreto B.C.S.,29.1
+-112.48,26.26,SANJUANICO,BCS,San Juanico B.C.S. SMN*,28.2
+-112,26.87,MLGBS,BCS,MulegÈ B.C.S.,27.0
+-112.1,27.09,STAROSALIAMAR,BCS,Santa RosalÌa B.C. SEMAR*,27.0
+-112.28,27.3,SRLBS,BCS,Santa RosalÌa B.C.S.,26.3
+-113.46,27.64,DIAZORDAZ2,BCS,Gustavo DÌaz Ordaz B.C.S.*,26.3
+-89.89,18.09,CALAKMUL,CAMP,Calakmul Camp. SMN*,30.8
+-89.89,18.36,CALCA,CAMP,Calakmul Camp. SMN*,30.1
+-91.05,18.18,CNDCA,CAMP,Candelaria Camp.,31.1
+-90.74,18.6,ESCCA,CAMP,Esc·rcega Camp.,32.9
+-91.76,18.65,CARCA,CAMP,El Carmen Camp.,30.5
+-91.18,18.97,SBNCA,CAMP,Sabancuy Camp.,30.7
+-90.58,19.3,CANCA,CAMP,Canasayab Camp.,31.4
+-90.72,19.36,CHMCA,CAMP,ChampotÛn Camp.,30.6
+-90.22,19.61,NYXCA,CAMP,Noh-YaxchÈ Camp.,32.6
+-89.86,19.66,XCPCA,CAMP,Xcupil Camp.,30.8
+-90.5,19.83,CAMPECHEob,CAMP,Observatorio de Campeche Camp. SMN*,31.6
+-90.54,19.84,CMPCA,CAMP,Campeche Camp.,30.4
+-90.51,19.84,COBCA,CAMP,Observatorio de Campeche Camp.,31.5
+-89.74,20,BOLCA,CAMP,Bolonchen Camp.,30.1
+-90.76,18.61,ESCARCEGA,CAMP,Esc·rcega Camp. SMN*,30.7
+-90.37,19.94,PETENES,CAMP,Los Petenes Camp. SMN*,30.6
+-91.82,18.65,CDCCA,CAMP,Ciudad del Carmen Camp. SMN*,29.5
+-90.82,18.06,MONCLOVACAMP,CAMP,Monclova Camp. SMN*,33.8
+-89.4,18.5,XPJCA,CAMP,Xpujil Camp.,30.2
+-89.85,19.75,HPOCA,CAMP,Hopelchen Camp.,30.7
+-90.11,20.18,HECCA,CAMP,Hecelchak·n Camp.,32.9
+-92.09,18.25,PLZCA,CAMP,Palizada Camp.,30.1
+-107.07,26.81,GRCCH,CHIH,Guerachi Chih.,28.1
+-107.88,26.87,IGNCH,CHIH,San Ignacio Chih.,26.1
+-105.68,26.92,PRRCH,CHIH,Parral Chih.,24.0
+-107.97,26.94,TBRSI,CHIH,San Francisco Chih.,33.9
+-107.72,27.03,BTPCH,CHIH,Batopilas Chih.,29.9
+-104.91,27.13,JMNCH,CHIH,JimÈnez Chih.,23.6
+-107.91,27.22,URECH,CHIH,Urique Chih.,28.4
+-108.54,27.42,CNDCH,CHIH,ChÌnipas Chih.,27.6
+-105.63,28.17,FIMCH,CHIH,Francisco I. Madero Chih.,24.3
+-108.21,28.21,BSSCH,CHIH,Basaseachi Chih.,18.2
+-105.45,28.21,CDLCH,CHIH,Ciudad Delicias Chih.,24.7
+-107.48,28.48,AGZCH,CHIH,Abraham Gonz·lez Chih.,17.7
+-106.09,28.66,QIJCH,CHIH,Observatorio de Chihuahua Chih.,21.7
+-107.85,28.95,TMCCH,CHIH,TemÛsachic Chih.,20.3
+-107.93,30.38,CAGCH,CHIH,Casas Grandes Chih.,20.2
+-108.52,28.15,C08182,CHIH,Moris,25.8
+-105.38,27.41,CL2CH,CHIH,Colina hidromÈtrica Chih.,23.0
+-107.7,28.76,C08243,CHIH,Tejolocachi,18.9
+-105.96,28.77,C08270,CHIH,La Mesa,22.8
+-106.48,28.8,C08099,CHIH,Majalca,16.7
+-108.09,29.25,C08219,CHIH,PeÒitas,15.5
+-107.26,28.77,BACCH,CHIH,BachÌniva Chih.,18.8
+-106.77,26.23,CHNCH,CHIH,Chinat˙ Chih. SMN*,20.8
+-107.07,26.82,GCCCH,CHIH,Guachochi Chih. SMN*,17.5
+-106.35,26.95,CONCHOSob,CHIH,Observatorio de Conchos Chih. SMN*,23.9
+-107.63,27.75,CRLCH,CHIH,Creel Chih.,20.3
+-105.5,28.17,DELICIAS,CHIH,Ciudad Delicias Chih. SMN*,24.0
+-108.21,28.2,BASCH,CHIH,Basaseachi Chih. SMN*,18.3
+-106.84,28.4,CDCUAUHTEMOC,CHIH,Ciudad CuauhtÈmoc Chih. SMN*,19.1
+-106.03,28.67,CHIHUAHUAob,CHIH,Observatorio de Chihuahua Chih. SMN*,21.2
+-107.82,28.95,TEMOSACHICob,CHIH,Observatorio de TemÛsachic Chih. SMN*,20.2
+-108.43,30.84,JANOS,CHIH,Janos Chih. SMN*,20.2
+-106.43,31.69,CDJUAREZob,CHIH,Observatorio de Ciudad Ju·rez Chih. SMN*,20.1
+-106.38,26.47,RVGCH,CHIH,El Vergel Chih.,14.8
+-106.39,26.47,ELVERGELSMN,CHIH,El Vergel Chih. SMN*,15.2
+-105.16,26.74,VICCH,CHIH,Villa Coronado Chih.,24.9
+-107.97,26.94,TB2CH,CHIH,Tubares II Chih.,33.5
+-107.92,27.22,URICH,CHIH,Urique Chih. SMN*,29.2
+-105.81,27.45,VZRCH,CHIH,Valle de Zaragoza Chih.,24.1
+-105.41,27.54,LBQCH,CHIH,La Boquilla Chih.,24.0
+-107.99,27.86,MAGCH,CHIH,Maguarichi Chih. SMN*,20.9
+-106.49,28.8,MAJALCA,CHIH,Cumbres de Majalca Chih. SMN*,17.6
+-105.28,28.98,LLNCH,CHIH,Ing. Luis L. LeÛn Chih.,26.4
+-108.3,29.2,GPCCH,CHIH,Guapoca Chih.,22.1
+-107.38,29.56,TNTCH,CHIH,El Tintero Chih.,19.6
+-104.41,29.56,OJNCH,CHIH,Ojinaga Chih.,24.8
+-104.43,29.58,OJINAGA,CHIH,Ojinaga Chih. SGT*,24.3
+-108.17,29.67,YEPCH,CHIH,Yepachic Chih.,21.6
+-107.03,29.88,LJSCH,CHIH,Las Lajas Chih.,17.6
+-92.4,15,HUECP,CHIS,Huehuet·n Chis.,37.8
+-92.47,15.13,HUICP,CHIS,Huixtla Chis.,38.3
+-92.58,15.2,DESCP,CHIS,Despoblado Chis.,37.0
+-92.72,15.35,CACCP,CHIS,Cacaluta Chis.,35.4
+-92.88,15.45,MAPCP,CHIS,Mapastepec Chis.,32.1
+-92.28,15.75,CHMCP,CHIS,Chicomuselo Chis.,30.6
+-92.24,15.78,SMICP,CHIS,San Miguel Chis.,31.3
+-91.97,15.85,PCOCP,CHIS,Puente Concordia Chis.,29.2
+-92.1,16.2,COOCP,CHIS,Observatorio de Comit·n Chis.,25.0
+-93.9,16.24,AROCP,CHIS,Arriaga Chis.,34.3
+-92.48,16.31,CASCP,CHIS,Cascajal Chis.,29.4
+-92.78,16.4,ANGCP,CHIS,Doctor Belisario DomÌnguez Chis.,32.1
+-92.8,16.55,ACACP,CHIS,Acala Chis.,30.9
+-93.15,16.64,BOQCP,CHIS,BoquerÛn Chis.,33.2
+-92.63,16.73,SCOCP,CHIS,Observatorio de San CristÛbal Chis.,22.4
+-93.13,16.75,TXOCP,CHIS,Observatorio de Tuxtla GutiÈrrez Chis.,30.2
+-93.1,16.76,TUXCP,CHIS,Tuxtla Oriente Chis.,29.3
+-93.15,16.76,TUXTLAGTZob,CHIS,Observatorio de Tuxtla GutiÈrrez Chis. SMN*,30.8
+-93.1,16.94,CHICP,CHIS,Manuel Moreno Torres Chis.,29.5
+-92.62,16.74,SCRCP,CHIS,Puente Morelos Chis.,21.2
+-93.07,16.72,TXZCP,CHIS,Tuxtla GutiÈrrez Zoomat Chis.,28.8
+-91.73,16.11,LMONTEBELLO,CHIS,Lagunas de Montebello Chis. SMN*,21.9
+-93.08,16.17,CREDREVOLUCIONM,CHIS,Cred RevoluciÛn Mexicana Chis. SMN*,30.5
+-92.13,16.23,COMITANob,CHIS,Observatorio de Comit·n Chis. SMN*,27.8
+-91.52,16.81,MAZULES,CHIS,Montes Azules Chis. SMN*,29.6
+-93.1,16.83,CSUMIDERO,CHIS,CaÒÛn del Sumidero Chis. SMN*,23.8
+-91.23,17.29,CUSUMACINTA,CHIS,CaÒÛn Usumacinta Tab. SMN*,31.0
+-92.4,14.7,PTOCHIAPASMAR,CHIS,Puerto Chiapas Chis. SEMAR*,32.4
+-92.3,14.89,TAPACHULAob,CHIS,Observatorio de Tapachula Chis. SMN*,34.9
+-92.26,14.91,TAPCP,CHIS,Tapachula Chis.,35.1
+-92.24,14.99,TAMCP,CHIS,Tapachula Malpaso Chis.,32.5
+-92.76,15.07,LAENCRUCIJADA,CHIS,La Encrucijada Chis. SGT*,32.4
+-92.33,15.17,FHACP,CHIS,Finca Hamburgo Chis.,29.3
+-92.67,15.32,ESCCP,CHIS,Escuintla Chis.,35.6
+-92.67,15.33,ESCUINTLA,CHIS,Escuintla Chis. SMN*,35.1
+-92.95,15.5,ELNCP,CHIS,El Novillero Chis.,36.5
+-92.81,15.66,ELTRIUNFO,CHIS,El Triunfo Chis. SMN*,21.2
+-93.22,15.69,PIJCP,CHIS,Pijijiapan Chis.,36.6
+-92.72,15.87,JAPCP,CHIS,Jaltenango Chis.,30.1
+-93.53,15.88,TPICP,CHIS,Tres Picos Chis.,36.3
+-92.67,15.92,REFCP,CHIS,Reforma Chis.,28.9
+-93.86,16.06,PAREDONMAR,CHIS,ParedÛn Chis. SEMAR*,33.5
+-93.08,16.16,REVCP,CHIS,RevoluciÛn Mexicana Chis.,28.9
+-93.06,16.45,SDOCP,CHIS,Santo Domingo Chis.,30.8
+-90.7,16.58,LACCP,CHIS,Lacant˙n Chis.,29.5
+-92.63,16.73,SNCRISTOBALob,CHIS,Observatorio de San CristÛbal Chis. SMN*,22.6
+-92.82,16.94,SNACP,CHIS,Santa MarÌa Chis.,28.5
+-93.12,16.98,GRICP,CHIS,Grijalva Chis.,31.2
+-91.99,17.53,PLQCP,CHIS,Palenque Chis. SMN*,30.4
+-92.35,17.57,SAACP,CHIS,Salto de Agua Chis.,29.0
+-93.6,17.18,MALCP,CHIS,NezahualcÛyotl Chis.,29.8
+-93.38,17.42,SAYCP,CHIS,Sayula Chis.,30.7
+-93.46,17.45,PENCP,CHIS,¡ngel Albino Corzo Chis.,29.3
+-92.15,15.09,VTACANA,CHIS,Volc·n Tacan· Chis. SMN*,27.9
+-93.33,17.12,YAMCP,CHIS,YamonhÛ Chis.,28.2
+-103.7,27.29,SMJCL,COAH,Sierra Mojada Coah.,21.9
+-101.12,29.15,CBRCL,COAH,Cabeceras Coah.,23.3
+-103.45,25.53,TORREONob,COAH,Observatorio de TorreÛn Coah. SMN*,28.3
+-103.47,25.54,CYTCL,COAH,Coyote Coah.,27.1
+-100.93,25.56,ARACL,COAH,Ramos Arizpe Aeropuerto Coah.,25.3
+-100.66,26.84,CDLCL,COAH,Candela Coah.,23.5
+-101.42,26.91,MCVCL,COAH,Monclova Coah.,24.8
+-102.06,26.98,CCGCL,COAH,Cuatro CiÈnegas Coah.,25.5
+-101,27.42,PRSCL,COAH,Progreso Coah.,25.3
+-101.12,27.85,SBNCL,COAH,Sabinas Coah.,23.4
+-100.9,29.03,ZPTCL,COAH,Zapata Coah.,23.0
+-100.95,29.21,CNTCL,COAH,El Centenario Coah.,23.0
+-100.95,29.33,CDACL,COAH,Ciudad AcuÒa Coah.,23.1
+-101.06,29.45,AMSCL,COAH,Internacional La Amistad Coah.,21.3
+-100.84,28.34,ADLCL,COAH,Allende Coah.,23.6
+-101.02,25.38,SALCL,COAH,Observatorio de Saltillo Coah.,24.4
+-103.23,25.53,MATCL,COAH,Matamoros Coah.,26.8
+-102.04,26.99,CUATROCIENEGAS,COAH,Cuatro Cienegas Coah. SMN*,25.2
+-100.57,28.68,PNEGRASob,COAH,Observatorio de Piedras Negras Coah. SMN*,24.4
+-101.02,25.38,SALTILLOob,COAH,Observatorio de Saltillo Coah. SMN*,23.7
+-101.02,25.38,STOCL,COAH,Saltillo Coah.,24.3
+-100.92,25.44,ESLCL,COAH,E. C. Saltillo Coah.,23.4
+-102.18,25.44,PARCL,COAH,Parras Coah.,25.1
+-103.45,25.54,TORCL,COAH,Observatorio de TorreÛn Coah.,28.5
+-102.98,25.76,SPECL,COAH,San Pedro Coah.,28.2
+-103.26,25.77,FIMCL,COAH,Francisco I. Madero Coah.,27.5
+-100.62,27.52,VCRCL,COAH,Venustiano Carranza Coah.,24.0
+-101.33,27.92,NUEVAROSITA,COAH,Nueva Rosita Coah. SMN*,24.7
+-101.71,28.01,MORELOSMUZQUIZ,COAH,Morelos M˙zquiz Coah. SMN*,25.3
+-101.21,28.4,SANTACECILIA,COAH,Santa Cecilia Coah. SMN*,23.4
+-100.53,28.71,PNGCL,COAH,Piedras Negras Coah.,22.8
+-100.95,29.03,SMGCL,COAH,San Miguel Coah.,24.4
+-100.66,29.05,JIMENEZ,COAH,JimÈnez Coah. SGT*,24.0
+-103.72,18.75,CDOCM,COL,Cerro de Ortega Col.,34.3
+-103.77,18.81,LDACM,COL,Laguna de Amela Col.,33.3
+-103.63,18.83,CLLCM,COL,Callejones Col.,35.8
+-104.32,19.04,MNZCM,COL,Manzanillo Col.,33.2
+-103.8,19.21,CQMCM,COL,Coquimatl·n Col.,33.4
+-103.73,19.22,LPSCM,COL,La Posta Col.,33.6
+-103.61,19.25,BVSCM,COL,Buena Vista Col.,31.9
+-103.6,19.32,CUACM,COL,CuauhtÈmoc Col.,31.7
+-103.88,19.11,DJLCM,COL,Derivadora Jala Col.,33.8
+-110.95,18.73,ISOCORROMAR,COL,Isla Socorro Col. SEMAR*,30.0
+-104.32,19.05,MANZANILLOob,COL,Observatorio de Manzanillo Col. SMN*,33.4
+-104.3,19.07,MANZANILLOMAR,COL,Manzanillo Col. SEMAR*,32.4
+-103.73,19.23,COLIMAob,COL,Observatorio de Colima Col. SMN*,33.4
+-103.87,18.91,TCMCM,COL,Tecom·n Col.,36.2
+-103.87,19.17,LAECM,COL,La Esperanza Col.,34.5
+-103.73,19.22,RDRCM,COL,Radar Col.,33.1
+-103.81,19.32,PNTCM,COL,PeÒitas Col.,35.1
+-99.2,19.3,DATDF,DF,DesviaciÛn Alta Cd. de MÈx.,24.1
+-99.17,19.45,CBIDF,DF,Escuela Nacional de Ciencias BiolÛgicas IPN Cd. de MÈx. SMN*,23.8
+-99.07,19.47,SJADF,DF,San Juan de AragÛn Cd. de MÈx.,25.1
+-99.14,19.52,CEADF,DF,Campamento Amealco Cd. de MÈx.,24.8
+-99.09,19.48,GCNDF,DF,km 6+250 del Gran Canal Cd. de MÈx.,23.2
+-99.12,19.27,ENP1,DF,Escuela Nacional Preparatoria 1 Cd. de MÈx. UNAM*,23.9
+-99.13,19.3,ENP5,DF,Escuela Nacional Preparatoria 5 Cd. de MÈx. UNAM*,24.2
+-99.2,19.31,CCHS,DF,Colegio de Ciencias y Humanidades Sur Cd. de MÈx. UNAM*,23.5
+-99.2,19.31,CENAPRED,DF,CCA CENAPRED Cd. de Mex. SMN*,24.2
+-99.18,19.33,CCA,DF,Centro de Ciencias de la AtmÛsfera Cd. de Mex. UNAM*,23.3
+-99.16,19.35,ENP6,DF,Escuela Nacional Preparatoria 6 Cd. de MÈx. UNAM*,24.4
+-99.06,19.38,CCHO,DF,Colegio de Ciencias y Humanidades Oriente Cd. de MÈx. UNAM*,24.1
+-99.1,19.39,TEZDF,DF,Tezontle Cd. de MÈx. SMN*,24.3
+-99.1,19.39,ENP2,DF,Escuela Nacional Preparatoria 2 Cd. de MÈx. UNAM*,24.7
+-99.2,19.4,ENP4,DF,Escuela Nacional Preparatoria 4 Cd. de MÈx. UNAM*,23.7
+-99.17,19.45,CBIOLOGIPN,DF,Eescuela Nacional de Ciencias BiolÛgicas IPN Cd. de MÈx. OCAVM*,27.3
+-99.09,19.48,ENP3,DF,Escuela Nacional Preparatoria 3 Cd. de MÈx. UNAM*,24.9
+-99.2,19.5,CCHA,DF,Colegio de Ciencias y Humanidades Azcapotzalco Cd. de MÈx. UNAM*,24.2
+-99.19,19.42,MDELREY,DF,Molino del Rey Cd. de Mex. SMN*,24.3
+-99.12,19.48,ENP9,DF,Escuela Nacional Preparatoria 9 Cd. de MÈx. UNAM*,23.8
+-102.78,24.63,SJGDR,DGO,San Juan de Guadalupe Dgo.,29.0
+-104.29,25.56,SPGDR,DGO,San Pedro del Gallo Dgo.,25.8
+-104.75,23.96,GVCDR,DGO,Presidente Guadalupe Victoria Dgo.,22.4
+-103.96,24,FVLDR,DGO,Francisco Villa Dgo.,25.6
+-104.67,24.03,DRGDR,DGO,Durango Dgo.,25.8
+-104.12,24.44,CGVDR,DGO,Ciudad Guadalupe Victoria Dgo.,23.0
+-104.75,24.5,CNTDR,DGO,Canatl·n Dgo.,25.8
+-104.81,24.54,CBRDR,DGO,Caboraca Dgo.,20.4
+-106.54,24.7,TDRDR,DGO,El Tule del Real Dgo.,31.1
+-103.7,24.87,CNCDR,DGO,CuencamÈ Dgo.,25.7
+-105.42,25.04,SPPDR,DGO,Santiago Papasquiaro Dgo.,25.4
+-103.77,25.27,FZRDR,DGO,Francisco Zarco Dgo.,25.2
+-103.52,25.53,CLRDR,DGO,Ciudad Lerdo Dgo.,25.9
+-105.96,25.93,GNCDR,DGO,Guanacevit Dgo.,18.3
+-105.37,25.95,SMODR,DGO,Santa MarÌa del Oro Dgo.,17.9
+-104.93,26.24,VHGDR,DGO,Villa Hidalgo Dgo.,22.0
+-104.12,26.52,CEBDR,DGO,Ceballos Dgo.,23.2
+-105.5,26.44,VILLAOCAMPO,DGO,Villa Ocampo Dgo. SMN*,22.6
+-104.33,24.54,PDCDR,DGO,P·nuco de Coronado Dgo.,18.5
+-103.98,23.74,VGCDR,DGO,Vicente Guerrero Dgo.,23.9
+-104.92,24.8,GUADR,DGO,GuatimapÈ Dgo.,20.4
+-104.67,23.87,SB2DR,DGO,Santiago Bayacora hidromÈtrica Dgo.,25.2
+-104.75,23.96,GVHDR,DGO,Guadalupe Victoria Dgo.,22.4
+-103.96,24,FV2DR,DGO,Francisco Villa hidromÈtrica Dgo.,25.6
+-104.8,24.52,CB2DR,DGO,Caboraca hidromÈtrica Dgo.,20.4
+-103.28,25.07,LFLDR,DGO,La Flor Coah.,28.2
+-102.78,24.56,TGRDR,DGO,El Tigre Dgo.,27.6
+-105.57,26.08,SRDDR,DGO,Sardinas Dgo.,25.6
+-104.25,23.39,MICHILIA,DGO,La Michilia Dgo. SMN*,19.9
+-104.9,23.8,SBBDR,DGO,Santa B·rbara Dgo.,20.5
+-104.7,24,CAGDR,DGO,Campo AgrÌcola Dgo.,25.2
+-104.6,24.09,DURANGOob,DGO,Observatorio de Durango Dgo. SMN*,25.6
+-105.47,24.19,LASVEGAS,DGO,Las Vegas Dgo.,19.0
+-106.37,26.13,ROSDR,DGO,La Rosilla Dgo.,17.0
+-103.98,26.55,LAFLOR,DGO,La Flor de Jimulco Dgo. SMN*,24.9
+-105.67,23.75,SLTDR,DGO,El Salto Dgo.,18.0
+-104.68,23.87,SBYDR,DGO,Santiago Bayacora Dgo.,25.2
+-105.05,23.9,NAVDR,DGO,Navios Viejos Dgo.,20.5
+-104.66,24.2,PAGDR,DGO,PeÒa del ¡guila Dgo.,21.5
+-104.66,24.24,PA2DR,DGO,PeÒa del ¡guila hidromÈtrica Dgo.,21.5
+-103.35,24.47,SCLDR,DGO,Santa Clara Dgo.,26.3
+-103.08,24.61,SELDR,DGO,Santa Elena Dgo.,21.6
+-106.98,24.93,TMZDR,DGO,Tamazula Dgo.,33.3
+-104.28,25.08,SLCDR,DGO,San Luis del Cordero Dgo.,24.1
+-104.56,25.18,RDODR,DGO,Rodeo Dgo.,25.4
+-105.44,25.22,SACDR,DGO,SalomÈ Acosta Dgo.,24.8
+-104.07,25.26,AGUSTINMELGAR,DGO,AgustÌn Melgar Dgo. SMN*,28.6
+-105.72,25.34,TLHDR,DGO,Tepehuanes Dgo.,22.9
+-105.25,25.5,GESDR,DGO,General Escobedo Dgo.,28.0
+-105.02,25.59,LCRDR,DGO,L·zaro C·rdenas Dgo.,25.5
+-104.9,25.75,RPADR,DGO,RADAR PALMITO,19.8
+-103.85,25.82,MPMDR,DGO,MapimÌ Dgo.,32.2
+-105.53,26,SBEDR,DGO,San Bernardo Dgo.,23.5
+-103.44,26.11,THODR,DGO,Tlahualilo Dgo.,26.9
+-105.51,26.45,VOCDR,DGO,Villa Ocampo Dgo.,25.0
+-103.75,26.69,MAPIMI,DGO,MapimÌ Dgo. SMN*,25.5
+-100.52,18.08,AFIGR,GRO,AndrÈs Figueroa Gro.,33.5
+-98.41,16.47,CNLGR,GRO,Cuajinicuilapa Gro.,33.1
+-99.8,16.8,ODAGR,GRO,Observatorio de Acapulco Gro.,34.0
+-99.91,16.85,ACAGR,GRO,Acapulco Gro.,31.0
+-99.1,16.95,AYUGR,GRO,Ayutla Gro.,33.7
+-100.02,16.96,LDCGR,GRO,Laguna de Coyuca Gro.,30.2
+-100.47,17.14,SJEGR,GRO,San JerÛnimo Gro.,32.8
+-100.43,17.21,ATYGR,GRO,Atoyac Gro.,36.6
+-101.05,17.38,CYQGR,GRO,Coyuquilla Gro.,33.9
+-99.45,17.48,PETGR,GRO,Petaquillas Gro.,29.5
+-99.5,17.55,CHIGR,GRO,Chilpancingo Gro.,30.1
+-99.52,17.58,AERGR,GRO,Aeropuerto de Chilpancingo Gro.,30.3
+-99.18,17.61,CHLGR,GRO,Chilapa Gro.,26.7
+-99.7,17.67,CCHGR,GRO,Chichihualco Gro.,29.4
+-98.74,17.78,OLNGR,GRO,Olinala Gro.,37.7
+-99.98,17.79,TLAGR,GRO,Tlacotepec Gro.,20.6
+-100.66,18.36,CALGR,GRO,Ciudad Altamirano Gro.,34.1
+-100.27,18.38,VGRGR,GRO,Vicente Guerrero Gro.,35.2
+-99.4,18.46,BVSGR,GRO,Buena Vista Gro.,28.0
+-99.37,17.47,MCHGR,GRO,Mochitl·n Gro.,28.8
+-99.91,16.82,ACAPULCOMAR,GRO,Acapulco Gro. SEMAR*,33.9
+-98.84,17.41,CRUCERODEL,GRO,Crucero de L. Gro. ProtecciÛn Civil*,20.5
+-100.5,18.15,AJCGR,GRO,Ajuchitl·n Gro.,25.0
+-99.75,16.76,ACAPULCOob,GRO,Observatorio de Acapulco Gro. SMN*,33.1
+-100.44,17.21,ATOYAC,GRO,Atoyac Gro. SMN*,36.8
+-101.06,17.27,PTOVICENTEMAR,GRO,Puerto Vicente Gro. SEMAR*,32.2
+-99.5,17.55,CHILPANCINGOob,GRO,Observatorio de Chilpancingo Gro. SMN*,30.6
+-102.12,17.98,PETACALCO,GRO,Petacalco Gro. SMN*,33.0
+-98.5,16.66,QTZGR,GRO,Quetzala Gro.,32.8
+-98.43,16.68,OMEGR,GRO,Ometepec Gro.,27.4
+-99.23,16.76,LASVIGAS,GRO,Las Vigas Gro. ProtecciÛn Civil*,32.8
+-99.24,16.76,LDGGR,GRO,Las Vigas Gro.,31.5
+-99.48,16.8,SNMGR,GRO,San Marcos Gro.,37.8
+-99.91,16.92,ELVELADERO,GRO,El Veladero Gro. SMN*,30.3
+-99.78,16.97,K21GR,GRO,km 21 Gro.,35.3
+-99.53,17.17,TCOGR,GRO,Tierra Colorada Gro.,31.6
+-98.6,17.5,TLPGR,GRO,Tlapa Gro.,31.6
+-99.4,17.57,TXTGR,GRO,Tixtla Gro.,30.4
+-99.5,17.6,ODZGR,GRO,Observatorio de Zumpango Gro.,29.0
+-99.93,17.6,YXTGR,GRO,Yextla Gro.,25.5
+-98.51,17.62,IXTGR,GRO,Ixcateopan de Tlapa Gro.,33.6
+-101.55,17.64,ZIHUATANEJO,GRO,Zihuatanejo Gro. SMN*,35.6
+-101.54,17.86,ZHTGR,GRO,Zihuatanejo Gro.,36.7
+-98.49,17.9,XXHGR,GRO,Xochihuehuetl·n Gro.,34.9
+-99.47,18.3,VTRGR,GRO,Valerio Trujano Gro.,32.5
+-99.55,18.35,IGLGR,GRO,Iguala Gro.,31.2
+-99.61,18.55,TAXGR,GRO,Taxco Gro.,25.6
+-101,18.42,LCLGR,GRO,La Calera Gro.,34.0
+-101.47,21.07,COMGJ,GTO,Comanjilla Gto.,27.7
+-100.36,20.2,CORGJ,GTO,Coroneo Gto.,24.6
+-100.72,20.03,ACNGJ,GTO,Ac·mbaro Gto.,26.1
+-100.67,20.05,SLSGJ,GTO,SolÌs Gto.,26.4
+-100.52,20.13,JCRGJ,GTO,JerÈcuaro Gto.,27.5
+-100.9,20.28,ECBGJ,GTO,El Cubo Gto.,25.5
+-100.88,20.21,SLVGJ,GTO,Salvatierra Gto.,28.1
+-101.07,20.3,SRTGJ,GTO,Santa Rita Gto.,25.8
+-101.18,20.39,VDSGJ,GTO,Valle de Santiago Gto.,27.0
+-101.52,20.43,ABSGJ,GTO,Abasolo Gto.,28.0
+-101.74,20.44,GLNGJ,GTO,La Golondrina Gto.,25.9
+-100.62,20.45,APSGJ,GTO,Apaseo el Alto Gto.,26.3
+-100.95,20.48,CRTGJ,GTO,Cort·zar Gto.,27.2
+-101.63,20.5,ATBGJ,GTO,Agua Tibia Gto.,27.6
+-101.13,20.52,PERGJ,GTO,Pericos Gto.,26.6
+-100.82,20.53,CLYGJ,GTO,Celaya Gto.,28.0
+-100.68,20.53,AEGGJ,GTO,Apaseo el Grande Gto.,28.1
+-100.58,20.55,AMCGJ,GTO,Ameche Gto.,25.7
+-101.2,20.57,SLMGJ,GTO,Salamanca Gto.,27.7
+-101.3,20.6,TEMGJ,GTO,TemascatÌo Gto.,28.9
+-101.67,20.62,CRMGJ,GTO,Cuer·maro Gto.,28.4
+-101.37,20.71,ANSGJ,GTO,Arandas Gto.,27.7
+-101.37,20.73,ECNGJ,GTO,El Conejo Gto.,27.6
+-100.9,20.95,CSRGJ,GTO,Cinco SeÒores Gto.,25.6
+-101.83,21.05,BRRGJ,GTO,El Barrial Gto.,26.1
+-100.93,21.15,DHGGJ,GTO,Dolores Hidalgo Gto.,29.5
+-101.69,21.17,EPLGJ,GTO,El Palote Gto.,27.4
+-101.67,21.2,CSTGJ,GTO,Los Castillos Gto.,27.8
+-101.63,21.29,BARBOSA,GTO,Barbosa Gto. ProtecciÛn Civil*,23.2
+-100.52,21.3,SLPGJ,GTO,San Luis de la Paz Gto.,27.1
+-101.63,20.51,CORRALEJO,GTO,Corralejo Hidalgo Gto. ProtecciÛn Civil*,28.6
+-100.88,21.1,PNLGJ,GTO,PeÒuelitas Gto.,25.0
+-99.83,21.32,SGORDAII,GTO,Sierra Gorda 2 Gto. SMN*,21.3
+-101.36,20.28,LJIGJ,GTO,Las JÌcamas Gto.,28.5
+-100.75,20.28,TARGJ,GTO,Tarimoro Gto.,27.2
+-101.07,20.29,LDYGJ,GTO,Laguna de Yuriria Gto.,25.3
+-100.87,20.38,LGVGJ,GTO,Presa la Gavia Gto.,28.1
+-101.02,20.4,SJLGJ,GTO,Santa Julia Gto.,27.9
+-101.02,20.43,SMAGJ,GTO,San Miguel de Allende Gto.,25.6
+-100.75,20.58,SMOGJ,GTO,San Miguel Octopan Gto.,26.1
+-101.84,20.68,LADGJ,GTO,Las Adjuntas Gto.,26.0
+-101.35,20.68,IRPGJ,GTO,Irapuato Gto.,26.1
+-100.82,20.85,PALGJ,GTO,Presa Allende Gto. SMN*,25.7
+-100.83,20.85,IALGJ,GTO,Ignacio Allende Gto.,28.0
+-101.29,20.87,PRSGJ,GTO,La PurÌsima Gto.,27.8
+-101.26,21.01,GTOGJ,GTO,Guanajuato Gto.,25.7
+-101.25,21.02,GUANAJUATOob,GTO,Observatorio de Guanajuato Gto. SMN*,26.8
+-101.67,21.1,LENGJ,GTO,LeÛn Gto.,27.2
+-100.5,21.22,POZGJ,GTO,Pozos Gto.,23.1
+-100.5,21.22,MINERALPOZOS,GTO,Mineral de Pozos Gto. ProtecciÛn Civil*,19.1
+-100.09,21.3,XICGJ,GTO,Xich˙ Gto.,27.2
+-101.11,21.32,LQMGJ,GTO,La Quemada Gto.,21.8
+-101.22,21.48,SFEGJ,GTO,San Felipe Gto.,21.5
+-101.52,21.63,OCMGJ,GTO,Ocampo Gto.,22.9
+-99.31,19.96,PRQHD,HGO,Requena Hgo.,26.2
+-98.37,20.08,TLGHD,HGO,Tulancingo Hgo.,23.9
+-99.36,20.16,ENDHD,HGO,EndhÛ Hgo.,26.4
+-99.22,20.24,MXQHD,HGO,Mixquiahuala Hgo.,24.6
+-98.94,20.27,ACTHD,HGO,Actopan Hgo.,25.7
+-98.65,20.65,ZXTHD,HGO,Zacualtip·n Hgo.,24.1
+-99.5,20.66,ZMPHD,HGO,Ing. Fernando Hiriart Balderrama Hgo.,26.7
+-98.33,21.02,ATCHD,HGO,Atlapexco Hgo.,29.6
+-98.42,21.15,HJTHD,HGO,Huejutla Hgo.,29.1
+-98.6,21.17,ORZHD,HGO,San Felipe Orizatl·n Hgo.,24.1
+-98.97,20.28,ACTOPAN,HGO,Actopan Hgo. OCAVM*,25.8
+-99.32,20.36,PROJOGOMEZ,HGO,Presa Rojo GÛmez Hgo. OCAVM*,23.4
+-98.08,20.46,HHTHD,HGO,Huehuetla Hgo.,27.2
+-99.22,20.87,MARMOLES,HGO,Los M·rmoles Hgo. SMN*,17.3
+-98.47,19.73,ITESAAPAN,HGO,ITESA-Apan Hgo. SMN*,21.7
+-98.27,19.97,TEZONCUALPA,HGO,Tezoncualpa Hgo. OCAVM*,18.6
+-98.33,20.06,PERHD,HGO,La Esperanza Hgo.,22.3
+-98.75,20.12,PCOHD,HGO,Observatorio de Pachuca Hgo.,23.8
+-98.72,20.19,ELCHICO,HGO,El Chico Hgo. SMN*,16.4
+-99.33,20.36,PRGHD,HGO,Javier Rojo GÛmez Hgo.,29.2
+-99.38,20.44,PVAHD,HGO,Vicente Aguirre Hgo.,28.8
+-99.22,20.48,IXMHD,HGO,Ixmiquilpan Hgo.,25.0
+-98.76,20.59,LMTHD,HGO,Metztitl·n Hgo.,31.9
+-98.37,21.15,HUEHD,HGO,Huejutla Hgo. SMN*,26.8
+-104.57,19.23,CIHJL,JAL,Cihuatl·n Jal.,37.2
+-103.47,19.7,CGZJL,JAL,Ciudad Guzm·n Jal.,27.3
+-104.06,19.91,BBAJL,JAL,Basilio Vadillo Jal.,33.1
+-105.13,20,CPEJL,JAL,CajÛn de PeÒa Jal.,30.8
+-103.09,20.4,ATQJL,JAL,Atequiza Jal.,28.9
+-102.25,20.48,HUAJL,JAL,Huascato Jal.,27.3
+-105.05,20.58,CULJL,JAL,Cuale Jal.,32.7
+-103.37,20.67,GUAJL,JAL,Guadalajara Centro Jal.,25.2
+-103.45,20.75,BAZJL,JAL,Base AÈrea Zapopan Jal.,25.1
+-103.45,21.07,CXTJL,JAL,Cuixtla Jal.,31.3
+-102.85,21.13,CUNJL,JAL,La CuÒa Jal.,32.6
+-102.5,21.3,SGRJL,JAL,San Gaspar de los Reyes Jal.,26.6
+-101.85,21.35,SAUJL,JAL,La Sauceda Jal.,26.1
+-101.74,21.5,CRTJL,JAL,El Cuarenta Jal.,27.0
+-102.44,21.6,AJJJL,JAL,Ajoj˙car Jal.,27.2
+-102.77,19.29,CHLMC,JAL,ConstituciÛn de Apatzing·n Jal.,36.8
+-103.78,21.83,BLNJL,JAL,BolaÒos Jal.,31.7
+-103.25,22.13,CLTJL,JAL,Colotl·n Jal.,26.4
+-103.23,22.33,ACHZC,JAL,Achimec Jal.,25.1
+-103.73,22.4,BCSJL,JAL,Bocas Jal.,27.8
+-101.92,21.37,OLMJL,JAL,Observatorio de Lagos de Moreno Jal.,27.2
+-104.78,20.48,CRNJL,JAL,Corrinchis Jal.,25.4
+-105.04,19.5,CHAMELA,JAL,Chamela-Cuixmala Jal. SMN*,33.3
+-103.59,19.59,NEVADOCOLIMA,JAL,Nevado de Colima Jal. SMN*,12.8
+-104.56,19.63,CHFJL,JAL,El ChiflÛn Jal.,34.1
+-103.46,19.73,CDGUZMANob,JAL,Observatorio de Ciudad Guzm·n Jal. SMN*,28.3
+-105.13,20,RIOTOMATLAN,JAL,RÌo Tomatl·n Jal. SMN*,31.7
+-103.2,20.29,CHAJL,JAL,Chapala 1 Jal. SMN*,25.5
+-105.21,20.73,LDBJL,JAL,La Desembocada J.L.,33.4
+-104.25,20.83,IXTLANRIO,JAL,Ixtl·n del RÌo Nay. SMN*,29.2
+-101.94,21.35,LMORENOob,JAL,Observatorio de Lagos de Moreno Jal. SMN*,27.2
+-103.4,18.97,TRJCM,JAL,Solidaridad Jal.,33.9
+-103.92,19.46,SMANANTLANI,JAL,Sierra Manatl·n 1 Jal. SMN*,20.5
+-104.29,19.85,ELCJL,JAL,El Corcovado Jal.,32.6
+-104.37,19.98,TMLJL,JAL,RamÛn Corona Madrigal General Jal.,26.8
+-103.03,20.17,TZPJL,JAL,Tizap·n Jal.,25.3
+-103.42,20.27,JOCJL,JAL,Jocotepec Jal. SMN*,24.7
+-103.2,20.29,LDCJL,JAL,Lago de Chapala Jal.,26.1
+-102.71,20.29,JMYJL,JAL,Jamay Jal.,25.9
+-103.42,20.44,TLAJOMULCO,JAL,Tlajomulco Jal. SMN*,26.5
+-103.65,20.47,HRTJL,JAL,Hurtado Jal.,26.8
+-104.05,20.55,RAMJL,JAL,RÌo Ameca Jal.,27.4
+-103.32,20.58,TLAJL,JAL,Tlaquepaque Jal.,28.4
+-103.36,20.58,PITJL,JAL,ProtecciÛn a Infraestructura y AtenciÛn a Emergencias Jal.,26.4
+-103.85,20.6,VEGJL,JAL,Ing. Santiago Camarena Jal.,28.7
+-103.64,20.68,LAPRIMAVERA,JAL,La Primavera Jal. SMN*,27.0
+-103.39,20.71,GUCJL,JAL,Guadalajara los Colomos Jal.,26.6
+-103.39,20.71,GUADALAJARAob,JAL,Observatorio de Guadalajara  Jal. SMN*,26.6
+-103.33,20.73,EXPJL,JAL,La Experiencia Jal.,27.6
+-101.92,21.36,LDMJL,JAL,Lagos de Moreno Jal.,28.2
+-102.58,21.45,TCAJL,JAL,Teocaltiche Jal.,28.4
+-103.27,22.11,COLOTLANob,JAL,Observatorio de Colotl·n Jal. SMN*,27.9
+-103.2,22.17,TENJL,JAL,Tenasco Jal.,28.0
+-99.24,19.53,CLYMX,MEX,Calacoaya MÈx.,23.1
+-98.87,19.19,SLAMX,MEX,San Luis Ameca MÈx.,23.3
+-99.51,19.2,CGCMX,MEX,Gerencia Conagua CODAGEM MÈx.,22.9
+-99.76,19.24,SJHMX,MEX,San Juan de las Huertas MÈx.,20.0
+-99.24,19.45,EMOMX,MEX,El Molinito RÌo Hondo MÈx.,25.0
+-99.7,19.47,SBBMX,MEX,JosÈ Antonio Alzate MÈx.,21.0
+-98.88,19.48,CHPMX,MEX,Chapingo MÈx.,26.7
+-99.22,19.57,ARBMX,MEX,Las Arboledas MÈx.,24.8
+-99.19,19.62,OBSMX,MEX,San MartÌn Obispo MÈx.,20.4
+-98.91,19.63,ACOLMAN,MEX,Acolman MÈx. OCAVM*,24.1
+-99.96,19.66,TPTMX,MEX,San AndrÈs Tepetitl·n MÈx.,18.8
+-99.3,19.7,CNPMX,MEX,La ConcepciÛn MÈx.,23.8
+-99.87,19.78,ATPMX,MEX,Atlacomulco Prepa. MÈx.,20.7
+-99.56,19.88,DNXMX,MEX,DanxhÛ MÈx.,21.5
+-99.86,20.04,PNDMX,MEX,—adÛ MÈx.,20.8
+-99.7,20.05,HPNMX,MEX,Huapango MÈx.,18.4
+-99.63,19.29,COBMX,MEX,Observatorio del Estado de MÈxico MÈx.,22.7
+-99.28,19.45,TTLMX,MEX,Totolica hidromÈtricas MÈx.,22.9
+-98.91,19.54,ATEMX,MEX,Atenco MÈx.,25.3
+-99.39,19.83,TXMHD,MEX,Taxhimay MÈx.,25.7
+-99.47,18.8,CHDMX,MEX,Colonia Hidalgo Mex.,30.0
+-99.7,19.33,CALMX,MEX,Calixtlahuaca MÈx.,22.7
+-99.8,19.33,TBRMX,MEX,Tres Barrancas MÈx.,20.8
+-99.74,19.59,SLBMX,MEX,San Bartolo del Llano MÈx.,20.1
+-99.68,19.12,NEVMX,MEX,Nevado de Toluca MÈx. SMN*,8.4
+-98.66,19.12,ALTZOMONI,MEX,Altzomoni Mex. SMN*,12.6
+-99.96,19.21,CDEPIEDRAS,MEX,Corral de Piedras Mex. SMN*,16.8
+-100.14,19.31,DONATOGUERRA,MEX,Donato Guerra Mex. SMN*,17.9
+-99.24,19.47,CCHN,MEX,Colegio de Ciencias y Humanidades Naucalpan MÈx. UNAM*,23.6
+-98.89,19.49,CHAPINGO,MEX,Chapingo MÈx. SGT*,24.3
+-99.97,19.54,CDELCERRILLO,MEX,Centro del Cerrillo Mex. OCAVM*,22.0
+-99.52,19.57,CCAMX,MEX,Cerro Catedral MÈx. SMN*,11.9
+-99.87,19.78,ATLMX,MEX,Atlacomulco MÈx. SMN*,21.5
+-99.73,18.93,PDZMX,MEX,Porfirio DÌaz MÈx.,20.8
+-99.94,18.93,TESMX,MEX,Texcaltitl·n MÈx.,22.2
+-99.42,18.99,OCUMX,MEX,Ocuil·n de Arteaga Mex.,22.6
+-100.28,19.1,TROMX,MEX,Trojes MÈx.,23.2
+-99.65,19.3,RECMX,MEX,RectorÌa MÈx.,19.2
+-98.88,19.33,IXTAPALUCA,MEX,Ixtapaluca MÈx. OCAVM*,24.3
+-100.08,19.38,VALLEDEBRAVO,MEX,Valle de Bravo MÈx. SGT*,22.5
+-98.9,19.44,TJCMX,MEX,El Tejocote MÈx.,22.3
+-99.28,19.45,PTLMX,MEX,Presa Totolica MÈx.,21.8
+-99.78,19.46,PIRMX,MEX,Ignacio RamÌrez MÈx.,20.5
+-99.22,19.48,MBLMX,MEX,Molino Blanco MÈx.,23.8
+-98.83,19.5,SANCTORUM,MEX,Sanctorum MÈx. OCAVM*,16.5
+-99.27,19.52,PREMX,MEX,Presa MadÌçn MÈx. SMN*,22.9
+-98.91,19.53,SADMX,MEX,San AndrÈs MÈx.,23.6
+-98.92,19.58,GRDMX,MEX,La Grande MÈx.,23.6
+-99.8,19.63,SMLMX,MEX,Santa MarÌa del Llano MÈx.,24.5
+-99.05,19.63,K27MX,MEX,km 27+250 MÈx.,25.1
+-98.86,19.64,SNLMX,MEX,San Lucas Mex.,24.3
+-99.18,19.74,PCGMX,MEX,Puente Colgante MÈx.,23.2
+-99.79,19.83,PFBMX,MEX,Francisco JosÈ Trinidad Fabela MÈx.,20.2
+-99.12,19.9,TTQMX,MEX,Tajo de Tequixquiac Mex.,24.2
+-99.74,20.12,PMNMX,MEX,El Molino MÈx.,19.5
+-101.66,19.93,AMEMC,MICH,Aristeo Mercado Mich.,27.5
+-102.21,18.02,MLCMC,MICH,Melchor Ocampo L. C. Mich.,36.3
+-102.18,18.05,VILMC,MICH,JosÈ MarÌa Morelos y PavÛn Mich.,35.1
+-101.88,18.27,INFMC,MICH,Infiernillo Mich.,35.4
+-100.9,18.5,CMNMC,MICH,Caimanera Mich.,36.3
+-101.93,18.92,ZICMC,MICH,Zicuir·n Mich.,39.2
+-102.37,19.08,APATZINGAN,MICH,Apatzing·n Mich. SMN*,35.9
+-102.37,19.08,APTMC,MICH,Apatzing·n Mich.,35.0
+-101.05,19.49,PDBMC,MICH,Planta de Bombeo Mich.,27.1
+-101.45,19.55,VJIMC,MICH,Villa JimÈnez Mich.,25.6
+-100.61,19.58,AGOMC,MICH,Agostitl·n Mich.,21.9
+-100.68,19.62,PUCMC,MICH,Pucuato Mich.,22.1
+-101.26,19.63,COIMC,MICH,CoÌntzio Mich.,24.9
+-101.18,19.69,MORMC,MICH,Morelia Mich.,25.5
+-101.2,19.7,MNOMC,MICH,Morelia Norte Mich.,26.3
+-100.55,19.7,CHIMC,MICH,Ciudad Hidalgo Mich.,24.9
+-101.8,19.81,ZCAMC,MICH,Zacapu Mich.,27.5
+-102.32,19.96,ORAMC,MICH,Orandino Mich.,26.0
+-100.45,19.97,EGIMC,MICH,El Gigante Mich.,27.2
+-102.27,19.97,CHAMC,MICH,Chaparaco Mich.,26.4
+-100.23,20,TEPMC,MICH,Tepuxtepec Mich.,23.3
+-100.41,19.84,LDFMC,MICH,Laguna del Fresno Mich.,26.3
+-101.72,20.13,ANGMC,MICH,Angamacutiro Mich. SMN*,26.5
+-102.75,20.15,LPAMC,MICH,La Palma Mich.,27.1
+-101.86,20.21,CORMC,MICH,Corrales Mich.,28.2
+-101.99,20.23,ADUMC,MICH,Adjuntas Mich.,29.0
+-102.44,20.3,DGNMC,MICH,De Gonzalo Mich.,30.5
+-101.46,20.32,CBLMC,MICH,Casa Blanca Mich.,27.9
+-102.24,20.34,YURMC,MICH,YurÈcuaro Mich.,30.9
+-102,20.35,LPDMC,MICH,La Piedad Mich.,33.1
+-102.6,19.96,JARMC,MICH,Jaripo Mich.,31.2
+-102.42,20.18,BIBMC,MICH,Barraje de Ibarra Mich.,26.7
+-102.46,20.21,SCRMC,MICH,San CristÛbal Mich.,27.8
+-102.13,18.85,LPNMC,MICH,Los Panches Mich.,33.9
+-101.93,18.92,PZICUIRAN,MICH,Presa Zicuir·n Mich. SMN*,34.1
+-100.28,19.67,MMONARCAI,MICH,Mariposa Monarca 1 Mich. SMN*,14.9
+-100.3,19.77,TMUMC,MICH,Tercer Mundo Mich.,22.0
+-102.18,17.94,LCARDENASMAR,MICH,L·zaro C·rdenas Mich. SEMAR*,32.4
+-102.87,19.21,LOLMC,MICH,Los Olivos Mich.,36.6
+-102.08,19.42,URUAPAN,MICH,Uruapan Mich. SMN*,24.5
+-100.29,19.54,MMONII,MICH,Mariposa Monarca 2 Mich. SMN*,17.2
+-101.1,19.7,MCEMC,MICH,Morelia Centro Mich.,25.5
+-100.87,19.83,MLPMC,MICH,MalpaÌs Mich.,25.9
+-102.65,19.84,SJUMC,MICH,San Juanico Mich.,26.2
+-100.83,19.86,ZINMC,MICH,ZinapÈcuaro Mich.,26.2
+-100.44,19.89,MRVMC,MICH,MaravatÌo Mich.,27.4
+-102.14,19.96,UREMC,MICH,Urepetiro Mich.,23.6
+-102.54,19.98,GUAMC,MICH,Guaracha Mich.,31.9
+-102.32,19.98,ZAMORAob,MICH,Observatorio de Zamora Mich. SMN,29.3
+-102.28,20.01,ZAMMC,MICH,Zamora Mich.,31.1
+-102.72,20.07,SAHMC,MICH,Sahuayo Mich.,29.0
+-102.4,20.1,SSIMC,MICH,San SimÛn Mich.,28.8
+-101.72,20.13,MOCMC,MICH,Melchor Ocampo Mich.,27.1
+-101.63,20.25,LANMC,MICH,Los ¡ngeles Mich.,28.6
+-101.6,20.3,PORMC,MICH,Pastor Ortiz Mich.,25.6
+-102.2,18.8,LPSMC,MICH,La PastorÌa Mich.,35.6
+-99.32,18.63,PIXMR,MOR,Puente de Ixtla Mor.,32.4
+-98.76,18.88,OCTMR,MOR,Ocuituco Mor.,24.3
+-98.83,18.95,ACHMR,MOR,Achichipico Mor.,24.4
+-99.02,18.44,HUTMR,MOR,Huautla Mor.,30.6
+-99.4,18.6,AMCMR,MOR,Amacuzac Mor.,32.5
+-98.91,18.68,LCUMR,MOR,La Cuera Mor.,29.5
+-99,18.73,MYOMR,MOR,Moyotepec Mor.,29.4
+-99.27,18.74,ALUMR,MOR,Alpuyeca Mor.,29.5
+-98.79,18.78,TMCMR,MOR,Temoac Mor.,26.6
+-98.9,18.8,CUAMR,MOR,Cuautla Mor.,27.4
+-98.75,18.81,TLOMR,MOR,Tlacotepec Mor.,24.0
+-99.2,18.9,CUEMR,MOR,Cuernavaca Mor.,27.8
+-99.2,18.9,TEMMR,MOR,Temixco Mor.,31.4
+-99.22,18.91,OBSMR,MOR,Observatorio de Morelos Mor.,26.7
+-99.19,18.92,SLDMR,MOR,Solidaridad Mor.,24.3
+-99.26,19.03,HUIMR,MOR,Huitzilac Mor.,19.8
+-98.94,19.04,TLCMR,MOR,Tlacualera Mor.,18.5
+-98.9,18.94,ATLMR,MOR,Atlatlahucan Mor.,27.4
+-99.4,18.7,MIAMR,MOR,Miacatl·n Mor.,29.9
+-99.25,18.68,XXOMR,MOR,Xoxocotla Mor.,32.5
+-99.26,18.73,OACMR,MOR,Oacalco Mor.,27.2
+-98.71,18.58,CAYMR,MOR,Cayehuacan Mor.,31.2
+-99.46,18.68,APAMR,MOR,Apacingo Mor.,29.3
+-98.96,18.85,CASMR,MOR,Casasano Mor.,30.9
+-99.23,18.93,CUERNAVACAob,MOR,Observatorio de Cuernavaca Mor. SMN*,27.6
+-99.31,19.05,LZEMPOALA,MOR,Lagunas de Zempoala Mor. SMN*,19.8
+-99.31,18.49,TILMR,MOR,Tilzapotla Mor.,31.4
+-99.14,18.52,NEXMR,MOR,Nexpa Mor.,34.6
+-99.19,18.52,XICMR,MOR,Xicatlacotla Mor.,35.0
+-98.94,18.54,SHUAUTLA,MOR,Sierra de Huautla Mor. SMN*,29.9
+-99.18,18.57,HIGMR,MOR,HiguerÛn Mor.,28.4
+-99.04,18.58,SPHMR,MOR,San Pablo Hidalgo Mor.,31.9
+-98.84,18.6,TPLMR,MOR,Tepalcingo Mor.,30.7
+-99.2,18.6,JOJMR,MOR,Jojutla Mor.,33.7
+-99.42,18.61,HUAMR,MOR,Huajintl·n Mor.,32.0
+-99.25,18.61,TQGMR,MOR,Tequesquitengo Mor.,30.6
+-99.2,18.65,ZCTMR,MOR,Zacatepec Mor.,32.8
+-98.79,18.69,ELPMR,MOR,El PeÒÛn Mor.,25.0
+-98.8,18.7,JNCMR,MOR,Jonacatepec Mor.,28.6
+-99.33,18.77,RODMR,MOR,El Rodeo Mor.,28.6
+-99.16,18.77,PROMR,MOR,Progreso Mor.,26.4
+-99.1,18.79,TICMR,MOR,Ticum·n Mor.,27.2
+-98.71,18.88,TETMR,MOR,Tetela del Volc·n Mor.,23.1
+-98.7,18.88,HUEMR,MOR,Hueyapan Mor.,21.2
+-99.16,18.88,IMTA,MOR,Instituto Mexicano de TecnologÌa del Agua Mor.*,27.4
+-99.1,18.9,YAHMR,MOR,Yautepec Mor.,28.4
+-98.9,18.9,OAXMR,MOR,Oaxtepec Mor.,27.5
+-98.92,18.99,TOTMR,MOR,Totoloapan Mor.,28.3
+-99.27,19.03,CBTMR,MOR,Centro de Bachillerato T.A. 154 Huitzilac Mor.,19.3
+-99.25,19.05,TRESMARIAS,MOR,Tres MarÌas Mor. SMN*,18.6
+-98.78,18.94,HUXMR,MOR,Huecahuaxco Mor.,21.9
+-105.14,20.89,GAVNR,NAY,Gaviotas Nay.,34.7
+-104.89,21.49,TEPNR,NAY,Tepic Nay.,29.5
+-105.11,21.83,CAPNR,NAY,Capomal Nay.,34.2
+-105.39,22.47,ACAPONETA,NAY,Acaponeta Nay. SMN*,34.2
+-105.35,22.49,ACANR,NAY,Acaponeta Nay.,35.2
+-104.89,21.49,TEPICob,NAY,Observatorio de Tepic Nay. SMN*,29.9
+-105.29,21.53,SANBLASMAR,NAY,San Blas Nay. SEMAR*,30.9
+-106.54,21.63,ISLASMARIASMAR,NAY,Islas MarÌas Nay. SEMAR*,30.7
+-105.14,21.96,RUINR,NAY,Ruiz Nay.,33.5
+-105.21,22.12,ROMNR,NAY,Rosa Morada Nay.,33.5
+-105.33,22.22,MARISMAS,NAY,Marismas Nacionales Nay. SMN*,34.8
+-104.52,22.25,JMANR,NAY,Jes˙s MarÌa Nay.,35.9
+-105.02,22.38,PAJNR,NAY,Pajaritos Nay.,33.0
+-105.34,22.56,LESNR,NAY,La Estancia Nay.,35.3
+-100.01,25.27,AL2NL,NL,Allende Dos N. L.,23.9
+-100.17,23.68,DARNL,NL,Doctor Arroyo N.L.,26.1
+-99.82,24.1,ARRNL,NL,Aramberri N.L.,26.8
+-99.91,24.32,ASCNL,NL,La AscensiÛn N.L.,19.6
+-99.7,24.78,CRUNL,NL,Crucitas N.L.,25.4
+-99.58,24.87,CAMNL,NL,Camacho N.L.,27.4
+-99.4,24.94,CPRNL,NL,JosÈ LÛpez Portillo N.L.,25.4
+-99.74,24.99,CABNL,NL,Cabezones N.L.,26.1
+-100.55,25.03,SRANL,NL,San Rafael N.L.,25.0
+-99.83,25.17,MTMNL,NL,Montemorelos N.L.,25.8
+-100.2,25.52,ECSNL,NL,El Cerrito N.L.,25.9
+-100.3,25.73,OBSNL,NL,Observatorio de Nuevo LeÛn N.L.,26.4
+-100.27,25.8,CANNL,NL,El Canad· N.L.,27.0
+-100.17,25.95,CDFNL,NL,CiÈnega de Flores N.L.,26.2
+-99.2,26.02,MDRNL,NL,Madero N.L.,26.7
+-99.61,26.09,CRVNL,NL,Cerralvo N.L.,23.9
+-100.13,27.24,ANHNL,NL,An·huac N.L.,24.9
+-99.28,25.71,CCHNL,NL,Cuchillo-Solidaridad N.L.,25.4
+-100.12,23.42,MYNNL,NL,Mier y Noriega N.L.,25.7
+-99.44,24.98,CARNL,NL,Carmen de los Elizondo Linares N.L.,28.3
+-100.3,25.73,MONTERREYob,NL,Observatorio de Monterrey N.L. SMN*,25.8
+-100.23,26.03,OBSMONTERREY,NL,Observatorio de Monterrey N.L. SMN*,25.2
+-99.78,23.98,ZRGNL,NL,Zaragoza N.L.,26.1
+-100.08,24.83,GALNL,NL,Galeana N.L.,21.6
+-99.22,24.99,PAMNL,NL,La Pamona N.L.,28.2
+-100.13,25.43,LBCNL,NL,La Boca N.L.,24.6
+-99.53,25.5,LERNL,NL,Las Enramadas N.L.,26.4
+-100.31,25.58,ELDIENTE,NL,El Diente N. L. SMN*,24.6
+-100.27,25.68,MTRNL,NL,Monterrey N.L.,26.6
+-96.53,17.43,ATEOX,OAX,Atepec Oax.,22.3
+-96.72,15.81,COZOX,OAX,San Francisco Cozoaltepec Oax.,34.0
+-95.7,16.01,ASTOX,OAX,Astata Oax.,35.2
+-96.48,15.67,PTAOX,OAX,Puerto ¡ngel Oax.,33.6
+-95.2,16.18,SCROX,OAX,Salina Cruz Oax.,33.1
+-94.4,16.5,OSTOX,OAX,Ostuta Oax.,35.0
+-95.1,16.58,IXTOX,OAX,Ixtepec Oax.,30.8
+-94.82,16.58,CHIOX,OAX,Chicapa Oax.,32.1
+-95.93,16.65,BOQOX,OAX,Boquilla 1 Oax.,34.6
+-96.73,17.07,OACOX,OAX,Oaxaca Centro Oax.,29.3
+-96.72,17.07,BAEOX,OAX,Base AÈrea Oax.,27.4
+-95.48,17.45,MAROX,OAX,MarÌa Lombardo Oax.,27.5
+-97.78,17.81,HLOOX,OAX,Observatorio de Huajuapan de LeÛn Oax.,28.1
+-96.53,17.88,SFUOX,OAX,San Felipe Usila Oax.,27.5
+-96.26,18,CDOOX,OAX,Miguel de la Madrid Hurtado Oax.,28.8
+-95.92,17.73,RMLOX,OAX,RÌo Manso Lalana Oax.,30.1
+-98.14,17.5,SLAOX,OAX,Silacayo·pam Oax.,26.2
+-97.82,17.89,ZAPOX,OAX,Zapotitl·n Palmas Oax.,26.9
+-95.37,16.43,EMAOX,OAX,El MarquÈs Oax.,34.7
+-96.55,17.27,SCIOX,OAX,Ixtepeji Oax.,24.3
+-97.72,17.53,AMTOX,OAX,San Antonino Monte Verde Oax.,21.6
+-97.9,17.91,SCHOX,OAX,Santiago Chilixtlahuaca Oax.,26.2
+-97.68,18.19,SNCOX,OAX,Santiago Chazumba Oax.,24.0
+-97.81,17.65,TSLOX,OAX,Heroica Villa Tezoatl·n de Segura y Luna Oax.,28.6
+-97.02,17.46,CMTOX,OAX,Santiago Camotl·n Oax.,32.5
+-96.58,16.34,MIAHUATLAN,OAX,Miahuatl·n Oax. SMN*,26.9
+-95.04,16.88,MROOX,OAX,MatÌas Romero Oax. SMN*,27.2
+-96.72,17,OAXACAob,OAX,Observatorio de Oaxaca Oax. SMN*,29.1
+-97.84,17.16,SACOX,OAX,San AndrÈs Chicahuaxtla Oax.,18.9
+-97.25,17.44,NOCHISTLAN,OAX,Nochistl·n Oax. SMN*,24.9
+-98.05,16.35,PNTOX,OAX,Pinotepa Oax. SMN*,33.9
+-96.49,15.67,PANGELob,OAX,Observatorio de Puerto ¡ngel Oax. SMN*,33.7
+-97.69,15.97,LCHACAHUA,OAX,Laguna Chacahua Oax. SMN*,35.2
+-95.23,16.16,SALINACRUZob,OAX,Observatorio de Salina Cruz Oax. SMN*,33.3
+-94.22,16.4,ZANOX,OAX,Zanatepec Oax.,34.8
+-95.6,16.42,TEQOX,OAX,Tequisistl·n Oax.,34.6
+-95.48,16.59,RHOOX,OAX,RÌo Hondo Oax.,32.5
+-96.7,17,OAOOX,OAX,Observatorio de Aeropuerto Oaxaca Oax.,28.7
+-96.45,17.12,SMAOX,OAX,San Antonio Cuajimoloyas Oax.,15.7
+-97.42,17.55,TEPOX,OAX,San Juan Teposcolula Oax.,23.0
+-97.54,17.73,STTOX,OAX,Santiago Teotongo Oax.,21.9
+-97.82,17.75,FOYOX,OAX,San Francisco Yosocuta Oax.,27.3
+-98.39,17.76,ZALOX,OAX,Zapotitl·n Lagunas Oax.,29.5
+-96.3,17.78,VANOX,OAX,Valle Nacional Oax.,30.3
+-97.78,17.81,HDLOX,OAX,Huajuapan de LeÛn Oax.,27.0
+-96.2,17.87,JACOX,OAX,Jacatepec Oax.,28.8
+-96.41,18.23,TEMOX,OAX,Presidente Alem·n Oax.,28.5
+-97.01,18.33,ZOQPB,PUE,Zoquitl·n Pue.,22.0
+-96.85,18.4,TLPPB,PUE,Tlacotepec de DÌaz Pue.,26.6
+-98.57,18.11,CHSPB,PUE,Chila de la Sal Pue.,30.8
+-98.26,18.2,PIXPB,PUE,Piaxtla Pue.,33.1
+-97.4,18.48,TEHPB,PUE,Tehuac·n Pue.,26.0
+-98.58,18.52,CHIPB,PUE,Chietla Pue.,29.5
+-97.91,18.74,SMCPB,PUE,San Miguel Canoa Pue.,23.0
+-98.54,18.77,HQCPB,PUE,Huaquechula Pue.,29.5
+-98.11,18.91,BDDPB,PUE,Manuel ¡vila Camacho Pue.,23.8
+-98.42,18.92,ATXPB,PUE,Atlixco Pue.,25.9
+-98.14,18.94,AFRPB,PUE,Africam Pue.,25.8
+-98.28,18.97,ECHPB,PUE,EcheverrÌa Pue.,29.2
+-97.96,18.97,CEMPB,PUE,Cemex Pue.,23.9
+-97.44,18.99,CDSPB,PUE,Ciudad Serd·n Pue.,23.0
+-98.2,19.02,CNAPB,PUE,Conagua Pue.,26.4
+-97.93,19.06,ACJPB,PUE,Acajete Pue.,24.1
+-98.32,19.07,CHLPB,PUE,Cholula Pue.,27.4
+-98.06,19.09,CPLPB,PUE,Capulac Pue.,23.0
+-98.46,19.1,HJTPB,PUE,Huejotzingo Pue.,23.4
+-97.42,19.45,ACHPB,PUE,Alchichilca Pue.,20.9
+-97.69,19.46,LIBPB,PUE,Libres Pue.,25.3
+-97.49,19.49,TPYPB,PUE,Tepeyahualco Pue.,23.6
+-98.05,19.74,CNGPB,PUE,Chignahuapan Pue.,18.2
+-97.36,19.82,TEZPB,PUE,Teziutl·n Pue.,21.7
+-98.15,20.03,AHUPB,PUE,Ahuazontepec Pue.,20.1
+-97.52,20.03,CTZPB,PUE,Cuetzalan Pue.,24.6
+-97.83,20.18,ZRGPB,PUE,Zaragoza Pue.,20.3
+-97.96,20.28,XDJPB,PUE,Xicotepec de Ju·rez Pue.,22.5
+-97.88,20.39,AVCPB,PUE,¡vila Camacho Pue.,28.8
+-97.84,20.41,APAPB,PUE,Apapantilla Pue.,30.4
+-98.06,18.28,ADOPB,PUE,Acatl·n de Osorio Pue.,30.6
+-98.16,18.61,COAPB,PUE,Coatzingo Pue.,31.0
+-98.22,19.11,SCRPB,PUE,San CristÛbal Caleras Pue.,23.1
+-97.85,20.73,MTLPB,PUE,Metlaltoyuca Pue.,27.2
+-97.92,18.85,AHAPB,PUE,Ahuatepec Pue.,27.5
+-97.62,18.31,TEHUACAN,PUE,Tehuac·n Pue. SMN*,25.7
+-98.78,18.45,TELPB,PUE,Teotlalco Pue.,33.2
+-98.57,18.68,IZUPB,PUE,Iz˙car de Matamoros Pue. SMN*,28.6
+-97.72,18.87,UTTPB,PUE,Universidad TecnolÛgica Tecamachalco Pue. SMN*,24.1
+-97.75,18.88,TECPB,PUE,Tecamachalco Pue.,24.5
+-97.25,18.92,PCRPB,PUE,Paso Carretas Pue.,20.2
+-98.23,19.01,MAYPB,PUE,Mayorazgo 21 Poniente Pue.,26.3
+-98.17,19.05,PUEBLAob,PUE,Observatorio de Puebla Pue. SMN*,25.1
+-98.17,19.05,PUOPB,PUE,Observatorio de Puebla Pue.,24.7
+-97.62,19.25,QUIPB,PUE,Quimixtl·n Pue.,21.4
+-98.58,19.33,SRTPB,PUE,Santa Rita Tlahuapan Pue.,22.5
+-97.53,19.7,OYAPB,PUE,Oyameles Pue.,18.1
+-97.81,19.83,TEOPB,PUE,Tetela de Ocampo Pue.,20.9
+-97.58,19.86,ZCPPB,PUE,Zacapoaxtla Pue.,19.3
+-97.39,19.89,TEZIUTLAN,PUE,Teziutl·n Pue. SMN*,21.0
+-97.79,20,TDRPB,PUE,Tepango de RodrÌguez Pue.,26.8
+-97.4,20.12,RNAPB,PUE,Rancho Nuevo Pue.,25.5
+-98.05,20.18,HUAPB,PUE,Huauchinango Pue.,22.4
+-98.04,20.37,TLXPB,PUE,Tlaxco Pue.,20.5
+-97.68,20.51,VENPB,PUE,Venustiano Carranza Pue.,27.9
+-100.37,20.57,GHQQT,QRO,Gerencia Hidalgo Qro.,25.7
+-99.96,20.2,IDFQT,QRO,San Ildefonso Qro.,22.1
+-100.08,20.42,CNSQT,QRO,ConstituciÛn de 1917 Qro.,25.4
+-100.41,20.5,BATQT,QRO,El Bat·n Qro.,24.6
+-100.45,20.54,EPUQT,QRO,El Pueblito Qro.,27.1
+-100.37,20.57,OBSQT,QRO,Observatorio de QuerÈtaro Qro.,25.9
+-100.44,20.6,CARQT,QRO,Carrillo Qro.,28.4
+-99.82,21.06,PMLQT,QRO,PeÒamiller Qro.,32.0
+-99.48,21.23,JLPQT,QRO,Jalpan Qro.,32.9
+-99.17,21.5,SGORDAI,QRO,Sierra Gorda 1 Qro. SMN*,26.2
+-100,20.36,SJSQT,QRO,San JosÈ Qro.,26.6
+-100.28,20.39,HUIQT,QRO,Huimilpan Qro. SMN*,22.1
+-100.23,20.62,MARQT,QRO,El MarquÈs Qro.,25.4
+-100.45,20.7,JRQQT,QRO,Juriquilla Qro.,28.3
+-99.47,21.21,PJALPAN,QRO,Presa Jalpan Qro. SMN*,28.1
+-89.72,19.46,DZILBACHEN,QROO,DzilbachÈn Camp. SMN*,29.4
+-88.33,18.5,CHOQR,QROO,Chetumal Q. Roo.,32.4
+-86.95,20.51,COZQR,QROO,Cozumel Q. Roo.,31.8
+-86.82,21.16,CANQR,QROO,Canc˙n Q. Roo.,32.2
+-88.33,18.5,CHETUMALob,QROO,Observatorio de Chetumal Q. Roo. SMN*,32.2
+-87.23,20.5,PTOVENTURAMAR,QROO,Puerto Ventura Q. Roo. SEMAR*,30.2
+-86.78,21.07,CNCQR,QROO,Canc˙n Radar Q. Roo. SMN*,30.8
+-86.74,21.25,ISLAMUJERESMAR,QROO,Isla Mujeres Q. Roo. SEMAR*,29.9
+-88.88,17.9,LAUNION,QROO,La UniÛn Q. Roo. SMN*,32.1
+-88.92,18.46,NICOLASBRAVO,QROO,Nicol·s Bravo Q. Roo. SMN*,30.1
+-88.04,19.58,FCRQR,QROO,Felipe Carrillo Puerto Q. Roo.,31.6
+-88.7,19.75,JMORELOS,QROO,JosÈ MarÌa Morelos Q. Roo. SMN*,30.5
+-87.08,20.63,PDCQR,QROO,Playa del Carmen Q. Roo.,31.3
+-87.49,21.1,KANTUNILKIN,QROO,KantunilkÌn Q. Roo. SMN*,30.0
+-106.4,23.23,MZTSI,SIN,Mazatl·n Sin.,31.4
+-107.35,24.32,DRDSI,SIN,El Dorado Sin.,31.2
+-106.81,24.57,JLPSI,SIN,JosÈ LÛpez Portillo Sin.,30.2
+-107.44,24.63,OBSSI,SIN,Observatorio de Culiac·n Sin.,32.9
+-107.4,24.82,CLCSI,SIN,Culiac·n Sin.,31.2
+-107.47,25.03,AWSSI,SIN,Andrew Weiss Sin.,30.1
+-107.54,25.33,BDRSI,SIN,Badiraguato Sin.,32.1
+-107.22,25.34,GTNSI,SIN,Guatenipa Sin.,32.1
+-108.09,25.47,GMCSI,SIN,Guam˙chil Sin.,32.4
+-108.01,25.9,JNASI,SIN,Jaina Sin.,32.4
+-109.18,25.92,AHMSI,SIN,Ahome Sin.,29.5
+-109.33,25.98,HDZSI,SIN,Higuera de Zaragoza Sin.,30.5
+-108.78,26.07,SFRSI,SIN,Sufragio Sin.,31.2
+-108.62,26.43,EFTSI,SIN,El Fuerte Sin.,33.6
+-108.58,26.51,PMHSI,SIN,Miguel Hidalgo Sin.,31.4
+-106.65,24.05,ACTSI,SIN,Acatit·n Sin.,33.8
+-106.95,24.48,SCRSI,SIN,Santa Cruz Sin.,32.6
+-107.16,24.81,SN2SI,SIN,Sanalona hidromÈtrica Sin.,32.3
+-107.38,25.09,AL2SI,SIN,El Varejonal hidromÈtrica Sin.,31.2
+-108.35,26.9,LD2SI,SIN,Huites hidromÈtrica Sin.,33.5
+-106.41,23.22,MAZATLANob,SIN,Observatorio de Mazatl·n  Sin. SMN*,31.4
+-107.4,24.8,CULIACANob,SIN,Observatorio de Culiac·n Sin SMN*,33.4
+-107.84,25.49,SANJUAN,SIN,San Juan Sin. SMN*,32.9
+-108.7,25.7,ARCSI,SIN,Adolfo RuÌz CortÌnes Sin.,30.4
+-108.33,26.74,CHXSI,SIN,Choix EstaciÛn Sin.,31.9
+-105.85,22.98,RSRSI,SIN,Rosario Sin.,34.1
+-105.85,23.09,TORSI,SIN,Las Tortugas Sin.,34.2
+-106.25,23.35,SQRSI,SIN,Siqueros Sin.,34.9
+-106.47,23.56,QLTSI,SIN,Quelite Sin.,33.1
+-106.9,23.92,LCRSI,SIN,La Cruz Sin.,33.5
+-106.6,23.96,IXPSI,SIN,Ixpalino Sin.,34.2
+-106.7,24.12,SLTSI,SIN,Ing. Aurelio Benassini Vizcaino Sin.,33.3
+-107.1,24.45,SLRSI,SIN,San Lorenzo Sin.,34.5
+-107.06,24.75,VINSI,SIN,Vinoramas Sin.,29.7
+-107.76,25.12,RAVSI,SIN,EstaciÛn Rancho Viejo Sin.,33.0
+-107.84,25.49,SJNSI,SIN,San Juan Sin.,31.9
+-109.07,25.59,TOPOLOBAMPOMAR,SIN,Topolobampo Sin. SEMAR*,29.0
+-108.47,25.72,GSVSI,SIN,Guasave Sin.,32.1
+-108.36,25.74,ZOPSI,SIN,El Zopilote Sin.,32.9
+-109,25.8,MCHSI,SIN,Los Mochis Sin.,30.5
+-107.91,25.86,GD2SI,SIN,Bacurato hidromÈtrica de Gustavo Diaz Ord·z Sin.,31.2
+-108.32,26.08,GB2SI,SIN,El Sabinal hidromÈtrica Sin.,31.4
+-108.62,26.41,ELFUERTE,SIN,El Fuerte Sin. SMN*,32.5
+-108.7,26.43,JORSI,SIN,Josefa Ortiz de DomÌnguez Sin.,31.3
+-98.76,21.24,TMTSL,SLP,Temamatla S.L.P.,25.5
+-98.86,21.25,TBLSL,SLP,Tierra Blanca S.L.P.,26.9
+-98.96,21.75,BLMSL,SLP,Ballesmi S.L.P.,27.6
+-99.02,21.98,CDVSL,SLP,Ciudad Valles S.L.P.,28.7
+-101.02,22.15,SLPSL,SLP,San Luis PotosÌ S.L.P.,24.7
+-100.64,23.66,MATSL,SLP,Matehuala S.L.P.,26.2
+-98.56,21.97,AJTSL,SLP,Las Adjuntas S.L.P.,27.9
+-98.82,21.32,MATLAPAob,SLP,Observatorio de Matlapa S.L.P. SMN*,28.6
+-100.94,21.81,GOGORRON,SLP,GogorrÛn S.L.P. SMN*,25.6
+-100.02,21.94,CDFERNANDEZ,SLP,Ciudad Fern·ndez S.L.P. SMN*,29.4
+-99.03,21.98,CDVALLES,SLP,Ciudad Valles S.L.P. SMN*,28.2
+-100.98,22.18,SLPOTOSIob,SLP,Observatorio de San Luis Potosi S.L.P. SMN*,24.9
+-98.8,21.33,MTPSL,SLP,Matlapa S.L.P.,26.9
+-98.89,21.42,RQTSL,SLP,Requetemu S.L.P.,27.9
+-99.83,21.65,PMYSL,SLP,Pedro Montoya S.L.P.,29.2
+-98.62,21.69,SVTSL,SLP,San Vicente S.L.P.,27.6
+-98.94,21.85,PUJSL,SLP,El Pujal S.L.P.,27.8
+-99.24,21.91,GANSL,SLP,Gallinas S.L.P.,27.8
+-100,21.92,RIOVERDEob,SLP,Observatorio de RÌo Verde S.L.P. SMN*,28.4
+-100,21.93,RVDSL,SLP,RÌo Verde S.L.P.,28.5
+-98.77,22,TMISL,SLP,TamuÌn S.L.P.,31.1
+-99.16,22.12,MICSL,SLP,Micos S.L.P.,25.6
+-101,22.2,SGRSL,SLP,Soledad Graciano S.L.P.,22.1
+-99.32,22.52,NRJSL,SLP,Naranjos S.L.P.,25.9
+-110.29,30.98,CNNSO,SON,Cananea Son.,23.2
+-109.89,27.75,AGCSO,SON,Agua Caliente Son.,27.8
+-108.76,26.6,CZNSO,SON,Cazanate Son.,35.2
+-109.44,27.07,NVJSO,SON,Navojoa Son.,31.3
+-109.11,27.23,ARCSO,SON,Adolfo RuÌz CortÌnes Son.,27.4
+-108.88,27.41,SBNSO,SON,San Bernardo Son.,31.3
+-109.62,27.42,CCRSO,SON,Cocoraque Son.,29.3
+-109.94,27.5,COBSO,SON,Ciudad ObregÛn Son.,30.6
+-109.89,27.82,AOBSO,SON,¡lvaro ObregÛn Son.,30.2
+-108.92,28.37,YC2SO,SON,YÈcora Son. SMN*,20.9
+-108.93,28.37,YCRSO,SON,YÈcora Son.,22.1
+-111.83,28.75,BAHIAKINO,SON,BahÌa de Kino Son. SMN*,26.1
+-110.92,29.07,HM2SO,SON,Observatorio de Hermosillo Son.,30.9
+-109.23,29.2,ECBSO,SON,El Cubil Son.,27.9
+-110.73,29.21,PMOSO,SON,Ing. Rodolfo FÈlix ValdÈs Son.,29.4
+-110.74,29.47,CJNSO,SON,El CajÛn Son.,29.6
+-110.23,29.82,ACNSO,SON,Aconchi Son.,24.7
+-109.09,30.07,ARISO,SON,Aribabi Son.,22.0
+-110.17,30.34,ARZSO,SON,Arizpe Son.,21.6
+-108.93,30.36,BCRSO,SON,Bacerac Son.,21.6
+-111.45,30.39,SRSSO,SON,Santa Rosa 2 Son.,24.0
+-110.24,30.6,BCNSO,SON,Bacanuchi Son.,24.8
+-112.12,30.7,PTQSO,SON,Pitiquito Son.,25.3
+-111.73,30.72,ALTSO,SON,Altar Son.,27.8
+-111.52,30.87,CHTSO,SON,CuauhtÈmoc Son.,29.1
+-113.55,31.35,PT2SO,SON,Puerto PeÒasco Son.,26.1
+-110.95,31.32,NGLSO,SON,Nogales Son.,23.0
+-112.85,31.87,NYNSO,SON,Sonoyta Son.,26.5
+-109.14,26.46,TOTOLIBOQUI,SON,Totoliboqui Son. REMAS*,30.0
+-109.05,26.5,EJIDO21MARZO,SON,Ejido 21 de Marzo Son. REMAS*,31.8
+-109.7,26.77,JULIANTABAMPO,SON,Juliantabampo Son. REMAS*,28.6
+-108.97,26.8,CHINO,SON,Chino Gordo Son. REMAS*,31.3
+-109.53,26.81,REGLA,SON,La Regla Son. REMAS*,30.4
+-109.6,26.82,HUATABAMPO,SON,Huatabampo Son. REMAS*,29.7
+-109.68,26.84,NAVOBAXIA,SON,Navobaxia Son. REMAS*,29.1
+-109.75,26.9,SAHUARALO,SON,Sahuaral de Otero Son. REMAS*,29.1
+-109.62,26.93,VASCONIA,SON,La Vasconia Son. REMAS*,29.3
+-109.42,26.97,CAPETAMAYA,SON,Capetamaya Son. REMAS*,31.2
+-109.83,27,BLOCK2918,SON,Block 2918 Son. REMAS*,27.8
+-109.5,27.01,SEMAY,SON,Semay Son. REMAS*,29.4
+-109.42,27.07,CIASO,SON,Ciano Huatabampo Son.,29.5
+-109.75,27.1,BLOCK2328,SON,Block-2328 Son. INIFAP*,29.7
+-109.48,27.11,CHIHUAHUITASO,SON,Chihuahuita Son. REMAS*,30.6
+-109.9,27.14,BLOCK2010,SON,Block 2010 Son. REMAS*,29.6
+-109.8,27.17,BLOCK1922,SON,Block 1922 Son. REMAS*,30.4
+-109.66,27.18,BLOCK1936,SON,Block 1936 Son. REMAS*,29.9
+-109.58,27.21,PUEBLO,SON,Pueblo Mayo Son. REMAS*,30.8
+-109.71,27.21,BLOCK1730,SON,Block 1730 Son. INIFAP*,29.6
+-110.04,27.23,BLOCK1703,SON,Block 1703 Son. REMAS*,30.3
+-109.84,27.28,BLOCK1418,SON,Block-1418 Son. INIFAP*,28.9
+-110.26,27.28,BLOCK1423,SON,Block 1423 Son. REMAS*,28.9
+-110.16,27.32,BLOCK1213,SON,Block 1213 Son. REMAS*,29.0
+-108.91,27.32,CASA,SON,Casa Colorada Son. REMAS*,32.8
+-110.02,27.32,BLOCK1101,SON,Block 1101 Son. REMAS*,29.7
+-109.81,27.39,BLOCK720,SON,Block 720 Son. REMAS*,30.1
+-110.29,27.4,BLOCK727,SON,Block-727 Son. INIFAP*,28.9
+-110.34,27.4,BLOCK731,SON,Block 731 Son. REMAS*,28.8
+-110.1,27.42,BLOCK609,SON,Block-609 Son. INIFAP*,29.3
+-110.22,27.46,BLOCK419,SON,Block 419 Son. REMAS*,29.6
+-109.13,27.47,ALGODONES,SON,Los Algodones Son. REMAS*,30.6
+-110.12,27.51,BLOCK111,SON,Block-111 Son. INIFAP*,29.2
+-110.01,27.55,IFPREDIOELJAZMI,SON,Predio El JazmÌn Son. INIFAP*,29.6
+-109.93,27.62,CORRAL,SON,EstaciÛn Corral  Son. REMAS*,30.1
+-110.41,27.63,POTAMR,SON,PÛtam Son. REMAS*,28.8
+-109.4,27.85,ROSARIO,SON,Rosario Tesopaco Son. REMAS*,29.7
+-110.55,28,CAMPO,SON,Campo Selza Son. REMAS*,29.9
+-110.93,28,BUENOS,SON,Buenos Aires Gym Son. REMAS*,29.3
+-110.66,28.12,SANTAMARIA,SON,Santa MarÌa Son. REMAS*,30.1
+-110.66,28.3,ORTIZ,SON,OrtÌz Son. REMAS*,30.3
+-111.25,28.31,SAHUARALA,SON,Sahuaral Son. INIFAP*,29.1
+-109.01,28.33,YECORAS,SON,YÈcora Son. REMAS*,16.9
+-110.51,28.37,TREINTA,SON,Las Treinta Son. REMAS*,29.6
+-109.89,28.42,SUAQUI,SON,Suaqui Grande Son. REMAS*,29.6
+-111.36,28.56,CUICHI,SON,Cuichi Son. REMAS*,28.5
+-111.32,28.68,PEANA,SON,PeaÒa Son. REMAS*,28.9
+-111.65,28.69,KINO,SON,Kino Son. REMAS*,27.9
+-111.47,28.74,FATIMA,SON,El Milagro de F·tima Son. REMAS*,28.9
+-111.56,28.84,SANTAELENAS,SON,Santa Elena Son. REMAS*,28.5
+-111.43,28.89,CARLITOS,SON,San Carlitos  Son. REMAS*,28.9
+-111.23,28.9,ABEJAS,SON,Abejas Son. REMAS*,29.0
+-110.18,28.94,MAZATAN,SON,Mazat·n Son. REMAS*,29.0
+-111.13,28.96,BACHATA,SON,La Bachata Son. REMAS*,28.9
+-111.26,28.98,SANTONINO,SON,Santo NiÒo Son. REMAS*,28.8
+-109.22,29.05,SAHUARIPA,SON,Sahuaripa Son. REMAS*,28.5
+-111.72,29.06,DOLORES,SON,Dolores Jam Son. REMAS*,28.2
+-111.56,29.09,GREEN,SON,Green Stripe Son. REMAS*,28.9
+-109.99,29.12,MATAPE,SON,M·tape Son. REMAS*,26.7
+-111.76,29.24,CHIPILON,SON,ChipilÛn Son. REMAS*,27.9
+-110.93,29.39,TRACALITA,SON,Tracalita Son. REMAS*,27.8
+-110.31,29.44,URES,SON,Ures Son. REMAS*,28.2
+-109.51,29.52,TEPACHE,SON,Tepache Son. REMAS*,26.3
+-110.93,29.55,SELVA,SON,Selva Son. REMAS*,27.5
+-110.14,29.67,BAVIACORA,SON,Bavi·cora Son. REMAS*,27.5
+-108.97,29.69,NACORI,SON,N·cori Chico Son. REMAS*,25.0
+-112.06,29.78,SANTAADELA,SON,Santa Adela Son. REMAS*,26.5
+-110.96,29.91,QUEROBABI,SON,Querobabi Son. REMAS*,26.6
+-109.3,29.93,HUASABAS,SON,Hu·sabas Son. REMAS*,26.3
+-110.21,29.97,BANAMICHI,SON,Ban·michi Son. REMAS*,26.7
+-111.23,30.05,CARRIZO,SON,El Carrizo Son. REMAS*,26.0
+-109.79,30.19,CUMPAS,SON,Cumpas Son. REMAS*,27.3
+-110.72,30.34,LADRILLERA,SON,La Ladrillera Son. REMAS*,25.8
+-108.92,30.39,BACERAC,SON,Bacerac Son. REMAS*,23.2
+-111.09,30.42,ALAMITOS,SON,Los Alamitos Son. REMAS*,25.6
+-111.56,30.47,CORRALES,SON,Los Corrales Son. REMAS*,26.9
+-108.96,30.51,BAVISPE,SON,Bavispe Son. REMAS*,23.6
+-112.35,30.51,SURCABORACA,SON,Sur Caborca Son. REMAS*,27.0
+-111.83,30.57,CANAN,SON,El Can·n Son. REMAS*,27.2
+-111.4,30.61,LOMA,SON,La Loma Son. REMAS*,26.1
+-109.97,30.65,BACOACHI,SON,Bacoachi Son. REMAS*,24.1
+-112.87,30.74,COSTERO,SON,El Costero Son. REMAS*,26.9
+-112.44,30.77,CABORCA,SON,Caborca Son. SMN*,27.7
+-111.21,30.79,ALMAS,SON,Las Palmas Son. REMAS*,25.6
+-112.78,30.83,LOLEYTA,SON,Loleyta Son. REMAS*,26.9
+-110.84,30.85,CRISP,SON,El 15 Crisp Son. REMAS*,24.6
+-112.91,30.85,RIVERA,SON,La Rivera Son. REMAS*,26.8
+-112.03,31,CUCHUJAQUI,SON,Cuchujaqui Son. REMAS*,26.0
+-110.6,31.19,SANTACRUZS,SON,Santa Cruz Son. REMAS*,21.8
+-109.56,31.24,AGUAPRIETA,SON,km 9 Ejido Agua Prieta Son. REMAS*,22.6
+-113.54,31.3,PTOPENASCOob,SON,Observatorio de Puerto PeÒasco Son. SMN*,26.0
+-112.67,31.77,SONOYTAS,SON,Sonoyta Son. REMAS*,25.8
+-112.85,31.87,SONOYTA,SON,Sonoyta Son. SMN*,27.3
+-114.92,32.17,COLONIA,SON,Colonia Medano Son. REMAS*,26.9
+-115.01,32.25,VALENZUELA,SON,Rancho Valenzuela Son. REMAS*,26.8
+-114.96,32.31,QUIROZ,SON,Rancho Quiroz Son. REMAS*,26.9
+-114.87,32.33,PIVOTE,SON,Rancho El Pivote Son. REMAS*,26.8
+-114.85,32.44,MONUMENTOS,SON,Monumentos Son. REMAS*,27.6
+-109.68,30.37,PNACOZARIob,SON,Observatorio de Pilares de Nacozari Son. SMN*,24.2
+-109.68,27.02,BUAYSIACOBE,SON,Buaysiacobe Son. INIFAP*,28.6
+-109.16,26.58,SANLUIS,SON,San Luis Son. INIFAP*,27.1
+-109.48,26.9,TRESCARLOS,SON,Tres Carlos Son. INIFAP*,30.1
+-109.4,27.13,TESIA,SON,Tesia Son. INIFAP*,30.9
+-109.93,27.37,OBOSO,SON,Observatorio Cd. ObregÛn Son. SMN*,30.3
+-110.29,27.64,VCMSO,SON,VÌcam Son.,29.3
+-109.21,27.66,TSOSO,SON,Tesocoma Son.,29.5
+-110.85,27.95,GYMSO,SON,Guaymas Son.,26.0
+-110.8,27.95,EMPALMEob,SON,Observatorio de Empalme Son. SMN*,29.3
+-110.8,27.95,EPLSO,SON,Empalme Son.,29.5
+-110.4,28.43,IRASO,SON,Ignacio R. Alatorre Son.,28.9
+-110.31,28.47,PTASO,SON,Punta de Agua 2 Son.,28.3
+-111.56,28.61,PERICOI,SON,Perico I Son. INIFAP*,28.5
+-110.24,28.71,SJPSO,SON,San JosÈ de Pimas Son.,28.8
+-111.36,28.79,ELBERVANO,SON,El Bervano Son. INIFAP*,28.9
+-109.64,28.98,PECSO,SON,Plutarco ElÌas Calles Son.,30.5
+-110.14,29,MZTSO,SON,Mazat·n Son.,27.8
+-111.13,29.01,UNISON,SON,Universidad de Sonora Son. SMN*,28.8
+-110.93,29.07,HMNSO,SON,Hermosillo Son.,29.2
+-110.93,29.08,HERMOSILLOob,SON,Observatorio de Hermosillo Son. SMN*,30.5
+-110.71,29.23,ORGSO,SON,El Oregano Son.,30.3
+-109.08,29.43,PDNSO,SON,Paso Nacori Son.,26.5
+-109.5,29.53,TPCSO,SON,Tepache Son.,28.2
+-111.02,30.05,QRBSO,SON,Querobabi Son.,27.5
+-108.96,30.21,HSHSO,SON,Huachinera Son.,20.8
+-109.69,30.37,NCZSO,SON,Nacozari Son.,24.8
+-109.38,30.44,LCDSO,SON,L·zaro C·rdenas Son.,24.6
+-110.89,30.76,IMRSO,SON,Imuris Son.,23.3
+-110.91,31.3,NOGALES,SON,Nogales Son. SMN*,22.6
+-113.3,31.68,PINACATE,SON,El Pinacate Son. SMN*,28.2
+-114.8,32.42,RCOLORADO,SON,San Luis RÌo Colorado Son. SMN*,26.3
+-114.81,32.43,MOCTEZUMA,SON,Moctezuma Son. INIFAP*,27.4
+-114.78,32.48,SLCSO,SON,San Luis RÌo Colorado Son.,28.0
+-91.48,17.43,BDCTB,TAB,Boca del Cerro Tab.,29.6
+-92.94,17.57,PUYTB,TAB,Puyacatengo Tab.,29.4
+-93.38,18,CARTB,TAB,C·rdenas Tab.,28.8
+-92.81,18.04,EPOTB,TAB,El Porvenir Tab.,30.4
+-92.82,17.47,TAPTB,TAB,Tapijulapa Tab.,29.2
+-92.93,17.98,OBSTB,TAB,Observatorio de Villa Hermosa Tab.,30.5
+-91.16,17.79,SPTTB,TAB,San Pedro Tab.,30.9
+-93,17.98,GONTB,TAB,Gonz·lez Tab.,30.1
+-92.92,17.98,EMUTB,TAB,Villahermosa Muelle Tab.,30.6
+-93.28,18,SAMTB,TAB,Samaria Tab.,28.5
+-92.65,18.41,PCENTLA,TAB,Pantanos de Centla Tab. SMN*,31.1
+-93.33,18.42,PARAISO,TAB,ParaÌso Tab. SMN*,29.4
+-92.75,17.39,OXOTB,TAB,Oxolot·n Tab.,29.1
+-93.08,17.56,SJOTB,TAB,San JoaquÌn Tab.,29.4
+-92.97,17.57,TEATB,TAB,Teapa Tab.,32.1
+-92.6,17.77,MACTB,TAB,Macuspana Tab.,29.3
+-92.88,17.85,PNVTB,TAB,Pueblo Nuevo Tab.,29.8
+-92.65,18.51,FRONTERA,TAB,Frontera Tres Brazos Tab. SGT*,29.4
+-99.27,24.02,STETP,TAMPS,Santa Engracia Tamps.,26.1
+-99.55,24.57,VSMTP,TAMPS,Victoria-San Marcos Tamps.,25.9
+-99.15,23.05,GOMEZFARIAS,TAMPS,Gomez Farias Tamps. SGT*,25.0
+-97.84,22.28,MDRTP,TAMPS,Madero Tamps.,23.9
+-97.93,22.39,BALTP,TAMPS,Bombas Altamira Tamps.,28.2
+-98.42,22.42,TMSTP,TAMPS,TamesÌ Tamps.,27.8
+-97.77,23.05,BTORDO,TAMPS,Barra del Tordo Tamps. SMN*,24.5
+-99.17,23.72,CVCTP,TAMPS,Observatorio de Ciudad Victoria Tamps.,27.1
+-98.75,23.73,PDMTP,TAMPS,Paso de Molina Tamps.,27.5
+-98.39,24.07,ABSTP,TAMPS,Abasolo Tamps.,27.0
+-99.12,24.08,BR1TP,TAMPS,El Barretal Uno Tamps.,27.6
+-99.22,24.1,BRRTP,TAMPS,El Barretal Tamps.,27.8
+-97.82,25.64,CONTP,TAMPS,Control Tamps.,25.5
+-97.8,25.91,VCATP,TAMPS,Villa C·rdenas Tamps.,25.1
+-98.29,26.08,RYATP,TAMPS,S-J-3-42 Reynosa Tamps.,25.0
+-98.6,26.24,CDOTP,TAMPS,S-J-2-18 Ciudad DÌaz Ordaz Tamps.,25.4
+-99.19,23.73,CVTTP,TAMPS,Ciudad Victoria Tamps.,27.3
+-99.15,22.99,AHLTP,TAMPS,Ahualulco Tamps.,27.0
+-98.98,22.74,CIUDADMANTE,TAMPS,Ciudad Mante Tamps. SMN*,28.6
+-99.13,23.73,CVICTORIAob,TAMPS,Observatorio de Ciudad Victoria Tamps.SMN*,27.3
+-98.94,23.94,CORTP,TAMPS,Corona Tamps.,27.2
+-97.15,25.82,MATAMOROSMAR,TAMPS,Matamoros Tamps. SEMAR*,22.0
+-97.88,22.24,TMPTP,TAMPS,Tampico Tamps.,25.9
+-98.69,22.6,ERCTP,TAMPS,Estudiante Ramiro Caballero Dorantes Tamps.,26.3
+-98.87,22.78,SDATP,TAMPS,Saca de Agua Tamps.,27.5
+-98.71,22.8,MGSTP,TAMPS,MagiscatzÌn Dos Tamps.,28.1
+-99.12,22.83,LSRTP,TAMPS,La Servilleta Tamps.,28.7
+-99,22.85,RFRTP,TAMPS,RÌo FrÌo Tamps.,29.0
+-98.79,22.94,SLZTP,TAMPS,Lic. Emilio Portes Gil Tamps.,25.8
+-99.09,23.02,SBNTP,TAMPS,Sabinas Tamps.,29.0
+-98.79,23.08,SGBTP,TAMPS,San Gabriel Tamps.,28.8
+-97.99,23.26,RSPTP,TAMPS,Rep˙blica EspaÒola Tamps.,25.8
+-99.38,23.41,JAUMAVE,TAMPS,Jaumave Tamps. SMN*,28.2
+-98.21,23.77,SLMTP,TAMPS,Soto la Marina Tamps.,27.9
+-97.77,23.79,LAPESCAMAR,TAMPS,La Pesca Tamps. SEMAR*,24.5
+-98.67,23.96,VGRTP,TAMPS,Vicente Guerrero Tamps.,27.6
+-98.9,24.05,PADTP,TAMPS,Padilla Tamps.,27.7
+-98.9,24.14,PILTP,TAMPS,PilÛn Tamps.,27.2
+-99.58,24.18,PVLTP,TAMPS,Puerto de Valles Tamps.,23.3
+-99.56,24.25,PJMTP,TAMPS,Pedro JosÈ MÈndez Tamps.,24.4
+-99.43,24.25,MHGTP,TAMPS,Miguel Hidalgo Tamps.,25.6
+-99.55,24.57,MAGTP,TAMPS,Magueyes Tamps.,25.3
+-98.16,24.84,FDOTP,TAMPS,San Fernando Tamps.,26.1
+-97.8,25.7,VHMTP,TAMPS,Valle Hermoso Tamps.,25.3
+-97.8,25.8,PANTP,TAMPS,Pueblo An·huac Tamps.,25.7
+-97.52,25.83,MATTP,TAMPS,Matamoros Tamps.,24.8
+-97.52,25.88,MA2TP,TAMPS,Matamoros Tamps. SMN*,24.8
+-98.88,26.17,RYNTP,TAMPS,S-J-2-9 Reynosa Tamps.,25.0
+-98.93,26.2,MRGTP,TAMPS,Marte R. GÛmez Tamps.,25.1
+-98.84,26.31,SANJUAN2,TAMPS,San Juan Tamps. SGT*,26.1
+-97.77,19.3,CUATL,TLAX,Cuapiaxtla Tlax.,23.5
+-97.65,19.32,ECTTL,TLAX,El Carmen Tequexquitla Tlax.,23.1
+-98.25,19.32,OBSTL,TLAX,Observatorio de Tlaxcala Tlax.,25.5
+-98.2,19.56,SJATL,TLAX,San JosÈ Atlanga Tlax.,21.9
+-98.56,19.59,CPPTL,TLAX,Calpulalpan Tlax.,21.4
+-98.04,19.3,MALINCHEI,TLAX,La Malinche 1 Tlax. SMN*,17.6
+-97.91,19.32,HMTTL,TLAX,Huamantla Tlax.,21.9
+-98.1,19.4,APITL,TLAX,Apizaco Tlax.,21.4
+-98.03,19.14,MALINCHEII,TLAX,La Malinche 2 Tlax. SMN*,21.1
+-97.91,19.2,ZITTL,TLAX,Zitlaltepec Tlax.,22.2
+-98.24,19.22,ZACTL,TLAX,Zacatelco Tlax.,24.7
+-97.95,19.31,HUATL,TLAX,Huamantla Tlax. SMN*,22.2
+-98.23,19.32,TLAXCALAob,TLAX,Observatorio de Tlaxcala Tlax. SMN*,25.5
+-96.39,19.26,LOFVC,VER,Loma Fina Ver.,30.3
+-95.03,17.43,JCRVC,VER,Jes˙s Carranza Ver.,28.5
+-95.13,17.88,SJEVC,VER,San Juan Evangelista Ver.,29.7
+-94.4,18.1,COTVC,VER,Coatzacoalcos Ver.,28.8
+-95.3,18.14,CTTVC,VER,Coatotolapan Ver.,27.3
+-95.44,18.58,ARCVC,VER,¡ngel Rosario Cabada Ver.,27.9
+-95.63,18.72,RALVC,VER,Radar Alvarado Ver.,27.2
+-97.23,18.92,LGRVC,VER,Loma Grande Ver.,20.2
+-96.61,19.02,VTEVC,VER,Villa Tejeda Ver.,28.3
+-96.37,19.36,CRDVC,VER,Cardel Ver.,28.8
+-96.94,19.45,COAVC,VER,Coatepec Ver.,24.0
+-96.93,19.48,BRIVC,VER,Briones Ver.,21.0
+-96.59,19.5,ACTVC,VER,Actopan Ver.,29.6
+-96.85,19.55,XCFVC,VER,Xalapa CFE Ver.,22.5
+-97.1,19.65,LVRVC,VER,Las Vigas de RamÌrez Ver.,20.2
+-96.84,19.7,ACAVC,VER,Acatl·n Ver.,19.6
+-97.23,19.76,ALTVC,VER,Altotonga Ver.,19.1
+-97.48,20.54,PRCVC,VER,Poza Rica Ver.,26.9
+-97.78,20.88,SBTVC,VER,Sombrerete Ver.,26.1
+-97.68,20.93,ALAVC,VER,¡lamo Temapache Ver.,26.3
+-97.4,20.96,TXPVC,VER,Tuxpan Ver.,27.4
+-98.38,21.52,TMPVC,VER,Tempoal Ver.,28.9
+-98.16,21.74,CHYVC,VER,Paso de Piedras Ver.,24.7
+-98.51,21.84,OLVVC,VER,El Olivo Ver.,28.5
+-98.17,22.05,PNCVC,VER,P·nuco Ver.,25.8
+-98.27,21.16,HLSVC,VER,Los Hules Ver.,29.1
+-94.16,17.57,TMOVC,VER,Tierra Morada Ver.,28.2
+-96.7,19.43,CEGVC,VER,Cerro Gordo Ver.,28.2
+-94.93,18.04,ACAYUCAN,VER,Acayucan Ver. SMN*,29.3
+-97.04,19.07,COSCOMATEPEC,VER,Coscomatepec CBT99 Ver. SMN*,23.1
+-97.27,19.55,PEROTESMN,VER,Perote Ver. SMN*,19.7
+-96.71,20.16,RAUVC,VER,El Raudal Ver.,27.2
+-97.42,20.96,TUXPANob,VER,Observatorio de Tuxpan Ver. SMN*,27.5
+-94.92,17.42,LPEVC,VER,Las Perlas Ver.,28.5
+-94.09,17.87,JDCVC,VER,San JosÈ del Carmen Ver.,26.9
+-95.7,18.08,VAZVC,VER,Villa Azueta Ver.,30.2
+-94.77,18.14,MNZVC,VER,Minzapan Ver.,26.4
+-96.1,18.19,CDALEMAN,VER,Ciudad Alem·n Ver.*,29.1
+-95.35,18.25,LAUVC,VER,Lauchapan Ver.,26.4
+-95.93,18.38,TUXTLASII,VER,Los Tuxtlas 2 Ver. SMN*,25.6
+-96.35,18.45,TBLVC,VER,Tierra Blanca Ver.,28.4
+-95.03,18.52,SONVC,VER,Sontecomapan Ver.,27.2
+-95.07,18.58,TUXTLASI,VER,Los Tuxtlas 1 Ver. SMN*,20.3
+-97.04,18.85,PTUXPANGO,VER,Presa Tuxpango Ver. SMN*,23.5
+-97.1,18.85,ORIZABAob,VER,Observatorio de Orizaba Ver. SMN*,23.9
+-97.1,18.85,ORZVC,VER,Orizaba Ver.,23.6
+-95.97,19.04,ELSALADOMAR,VER,El Salado Ver. SEMAR*,27.6
+-96.11,19.15,VERVC,VER,Veracruz Ver.,29.1
+-96.95,19.18,HTSVC,VER,Huatusco Ver.,21.5
+-96.95,19.23,TOTVC,VER,Totutla Ver.,22.3
+-96.49,19.34,TAMVC,VER,Tamarindo Ver.,28.2
+-96.55,19.4,IDOVC,VER,Õdolos Ver.,29.4
+-97.39,19.41,ZALVC,VER,Zalayeta Ver.,20.0
+-96.97,19.45,TAPVC,VER,Tapachapan Ver.,23.5
+-96.9,19.51,XALAPAob,VER,Observatorio de Xalapa Ver. SMN*,25.9
+-96.92,19.53,XOBVC,VER,Observatorio de Xalapa Ver.,23.1
+-96.97,19.55,OTIVC,VER,Otilpan Ver.,20.3
+-97.24,19.58,PERVC,VER,Perote Ver.,19.0
+-97.02,19.6,JOYVC,VER,La Joya Ver.,19.9
+-96.87,19.65,NAOVC,VER,Naolinco Ver.,20.5
+-96.92,19.81,TNCVC,VER,Tenochtitl·n Ver.,24.7
+-96.83,19.93,MZNVC,VER,Misantla Ver.,23.8
+-96.98,20.05,LIBVC,VER,Libertad Ver.,28.7
+-97.05,20.07,MDTVC,VER,MartÌnez de la Torre Ver.,28.2
+-98.48,20.53,HUYVC,VER,Huayacocotla Ver.,21.0
+-98.34,21.29,PSNVC,VER,PlatÛn S·nchez Ver.,26.2
+-98.44,21.78,HGOVC,VER,El Higo Ver.,29.0
+-89.08,20.46,CANYC,YUC,Cantamayec Yuc.,30.3
+-89.71,20.49,MUNYC,YUC,Muna Yuc.,30.9
+-88.2,20.69,VALYC,YUC,Valladolid Yuc.,32.0
+-89.83,20.75,CHOYC,YUC,Chochol· Yuc.,30.0
+-89.64,21.03,CICYC,YUC,Centro de InvestigaciÛn CientÌfica Yuc.,32.0
+-89.65,21.28,PROYC,YUC,Progreso Yuc.,30.0
+-87.68,21.51,CYOYC,YUC,El Cuyo Yuc.,30.6
+-89.22,19.88,BECYC,YUC,BecanchÈn Yuc.,30.1
+-89.68,20.65,ABAYC,YUC,Abal· Yuc.,27.5
+-90.38,20.86,CELYC,YUC,Celest˙n Yuc. SMN*,30.5
+-89.5,21.08,CONYC,YUC,Conkal Yuc.,29.3
+-89.05,20.03,TNTYC,YUC,TantaquÌn Yuc. SMN*,31.1
+-89.29,21.09,MTOYC,YUC,Motul Yuc.,33.9
+-89.65,21.3,PROGRESOob,YUC,Observatorio de Progreso Yuc. SMN*,30.3
+-89.05,20.03,TANYC,YUC,TantaquÌn Yuc.,31.1
+-88.93,20.13,PETYC,YUC,Peto Yuc.,32.8
+-89.39,20.29,OXKYC,YUC,Oxkutzcab Yuc.,29.7
+-89.56,20.4,TICYC,YUC,Ticul Yuc.,29.1
+-89.64,20.94,FAEYC,YUC,Fuerza AÈrea Yuc.,31.7
+-89.65,20.95,MEOYC,YUC,Observatorio de MÈrida Yuc.,30.6
+-89.58,20.98,EZAYC,YUC,Emiliano Zapata Yuc.,30.3
+-89.66,20.98,GARYC,YUC,Organismo de Cuenca PenÌnsula de Yucat·n Yuc.,30.2
+-89.64,21.05,FIYYC,YUC,Fiuady Yuc.,29.5
+-89.44,21.11,MOCYC,YUC,Mococh· Yuc.,30.7
+-88.17,21.16,TIZYC,YUC,TizimÌn Yuc.,29.7
+-87.99,21.16,TIZIMIN,YUC,TizimÌn Yuc. SMN*,30.8
+-88.16,21.57,RILYC,YUC,RÌo Lagartos Yuc. SMN*,29.9
+-88.16,21.57,RLAYC,YUC,RÌo Lagartos Yuc.,29.5
+-103.51,24.29,SGOZC,ZAC,Santiago Zac.,22.6
+-102.85,21.36,NCTZC,ZAC,Nochistl·n Zac.,26.4
+-103.35,21.65,EXCZC,ZAC,Miguel Alem·n Zac.,26.0
+-103.31,21.77,TLLZC,ZAC,Tlaltenango Zac.,26.0
+-103.46,21.81,ATGZC,ZAC,Atolinga Zac.,22.1
+-102.9,22,CHIZC,ZAC,El Chique Zac.,28.4
+-101.4,22.12,PINZC,ZAC,Pino Su·rez Zac.,22.5
+-102.86,22.12,TAYZC,ZAC,Ing. Juli·n Adame Alatorre Zac.,26.5
+-103.56,22.31,MRSZC,ZAC,Monte Escobedo Zac.,22.1
+-101.92,22.52,VGOZC,ZAC,Villa Gonz·lez Ortega Zac.,23.8
+-102.58,22.76,ZACZC,ZAC,Zacatecas Zac.,21.0
+-103.38,22.85,LOBZC,ZAC,Manuel Felgueres Zac.,24.3
+-103.11,22.92,STRZC,ZAC,Santa Rosa Zac.,22.4
+-103.64,23.64,SOMZC,ZAC,Sombrerete Zac.,22.9
+-103.09,22.93,GJAZC,ZAC,General JoaquÌn Amaro Zac.,20.1
+-101.39,24.62,CORZC,ZAC,ConcepciÛn del Oro Zac.,23.7
+-102.46,22.49,GRCZC,ZAC,Genaro Codina Zac.,20.7
+-102.57,22.78,ZACATECASob,ZAC,Observatorio de Zacatecas Zac. SMN*,17.6
+-103.36,21.21,MORZC,ZAC,Mezquital del Oro Zac.,29.8
+-103.46,21.47,TGOZC,ZAC,Te˙l de Gonz·lez Ortega Zac.,26.2
+-102.79,21.56,TLAZC,ZAC,Tlalchichila Zac.,23.5
+-103.34,21.59,VILZC,ZAC,JosÈ MarÌa Morelos Zac.,30.9
+-102.9,21.71,PMOZC,ZAC,MoraleÒos Zac.,29.0
+-101.99,22.26,LORZC,ZAC,Loreto Zac.,26.1
+-103.5,22.33,STEZC,ZAC,Santa Teresa Zac.,23.7
+-101.72,22.35,VHGZC,ZAC,Villa Hidalgo Zac.,24.2
+-102.8,22.35,PALZC,ZAC,Palomas Zac.,23.1
+-102.25,22.44,LMOZC,ZAC,Luis Moya Zac.,24.8
+-103,22.64,JERZC,ZAC,Jerez Zac.,25.9
+-102.04,22.67,ELSZC,ZAC,El Saladillo Zac.,23.8
+-103.6,22.69,LAFLORIDA,ZAC,La Florida Zac. SMN*,26.7
+-103.6,22.69,LFLZC,ZAC,La Florida Zac.,26.6
+-102.51,22.75,GPEZC,ZAC,Guadalupe Zac.,23.4
+-102.51,22.75,ZA2ZC,ZAC,Zacatecas Zac. SMN*,22.3
+-102.57,22.78,LBUZC,ZAC,La Bufa Zac.,18.2
+-102.66,23,LLBZC,ZAC,Llano Blanco Zac.,23.2
+-102.89,23.17,FREZC,ZAC,Fresnillo Zac.,22.4
+-103.22,23.18,LREZC,ZAC,Gobernador Leobardo Reynoso Zac.,22.8
+-103.88,23.47,TCHZC,ZAC,Chalchihuites Zac.,22.5
+-103.1,23.69,ELCZC,ZAC,El Cazadero Zac.,25.8
+-103.03,23.82,RGRZC,ZAC,RÌo Grande Zac.,23.6
+-103.4,24.28,JALZC,ZAC,Juan Aldama Zac.,23.9
+-102.88,24.32,SFOZC,ZAC,San Francisco Zac.,30.8
