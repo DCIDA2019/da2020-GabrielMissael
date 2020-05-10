@@ -8,6 +8,14 @@ ajustar parametros a un modelo dado.
 REQUERIMIENTOS: Numpy, pandas, matplotlib.pyplot, matplotlib, getdist, cosmolopy.distance
 '''
 
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib as mpl
+from getdist import plots, MCSamples
+import getdist
+import pandas as pd
+import cosmolopy.distance as distance
+
 def montecarlo_mc(N, datos, teoria, desviacion_teoria, modelo, desviacion_parametros, p_old, ln_likelihood, ln_prior, n_pasos=500, seed = 500):
     '''
     REQUIREMENTS: Numpy
