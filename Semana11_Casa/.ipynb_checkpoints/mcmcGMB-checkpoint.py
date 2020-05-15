@@ -15,6 +15,7 @@ from getdist import plots, MCSamples
 import getdist
 import pandas as pd
 import cosmolopy.distance as distance
+from IPython.display import clear_output
 
 def montecarlo_mc(N, datos, teoria, desviacion_teoria, modelo, desviacion_parametros, p_old, ln_likelihood, ln_prior, n_pasos=500, seed = 500):
     '''
@@ -57,6 +58,9 @@ def montecarlo_mc(N, datos, teoria, desviacion_teoria, modelo, desviacion_parame
 
         #Realizamos n iteraciones
         for paso in range(n_pasos):
+            
+            print(f'Cadena {i_cadena}, {paso}/n_pasos')
+            clear_output(wait=True)
             #Lista para nuevo parametro
             p_new = []
 
@@ -324,7 +328,7 @@ def triangulo(datos, labels = []):
         labels = nombre de los parametros (default p_i)
     OUT: Grafica triangular con histogramas 1d y 2d de todas la combinaciones
     '''
-    g = plots.get_subplot_plotter(subplot_size=3)
+    g = plots.get_subplot_plotter(subplot_size=2)
     
     #Checamos si se asignó nombre a los parametros
     if labels!=[]:
